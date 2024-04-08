@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "теорема коши на отрезке",
+                "query": "правило лопитал",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,7 +166,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "e1271907a35b85a7",
+  "active": "f93640dd40c825cc",
   "lastOpenFiles": [
     "МатАНАЛиз/Формула Тейлора.md",
     "МатАНАЛиз/Теорема Коши о промежуточном значении непрерывной функции.md",
