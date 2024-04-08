@@ -6,3 +6,4 @@
 - Superfluous - unnecessary
 - Sloppy - carelessly expressed
 - Aspiring - hoping to be successful at something
+- Uninhibited - not restrained in any way
