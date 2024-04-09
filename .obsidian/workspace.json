@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Линейная алгебра/Untitled.md",
+                "file": "Линейная алгебра/Подобные матрицы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Линейная алгебра/Untitled.md",
+                "file": "Линейная алгебра/Подобные матрицы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Линейная алгебра/Untitled.md",
+                "file": "Линейная алгебра/Подобные матрицы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Линейная алгебра/Untitled.md"
+                "file": "Линейная алгебра/Подобные матрицы.md"
               }
             }
           },
@@ -168,7 +168,7 @@
   "active": "e1271907a35b85a7",
   "lastOpenFiles": [
     "Линейная алгебра/Переходы между базисами.md",
-    "Линейная алгебра/Untitled.md",
+    "Линейная алгебра/Подобные матрицы.md",
     "Линейная алгебра/Связь между матрицами оператора в разных базисах.md",
     "Линейная алгебра/Преобразование координат (Матрица перехода).md",
     "Линейная алгебра/Теорема о матрице в базисе собственных векторов.md",
