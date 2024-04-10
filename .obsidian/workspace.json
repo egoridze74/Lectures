@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Git. Ключевые слова.md",
+                "file": "Git/Типы организации работы  команды в Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Git. Ключевые слова.md",
+                "file": "Git/Типы организации работы  команды в Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Git. Ключевые слова.md",
+                "file": "Git/Типы организации работы  команды в Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Git. Ключевые слова.md"
+                "file": "Git/Типы организации работы  команды в Git.md"
               }
             }
           },
@@ -167,12 +167,12 @@
   },
   "active": "e1271907a35b85a7",
   "lastOpenFiles": [
+    "Git/Git. Ключевые слова.md",
+    "Git/Типы организации работы  команды в Git.md",
     "ЯПы/Теория/Графика в C++.md",
     "ЯПы/Теория/СКУВ.md",
     "ЯПы/Теория/Репозиторий.md",
-    "Git/Git. Ключевые слова.md",
     "МатАНАЛиз/Теоремы об интегрируемости.md",
-    "Git/Untitled.md",
     "Git",
     "МатАНАЛиз/Теорема Кантора.md",
     "МатАНАЛиз/Критерий интегрируемости функции, колебание функции.md",
