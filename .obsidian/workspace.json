@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Untitled.md",
+                "file": "Git/Git. Ключевые слова.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "теорема кантора",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Untitled.md",
+                "file": "Git/Git. Ключевые слова.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Untitled.md",
+                "file": "Git/Git. Ключевые слова.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Untitled.md"
+                "file": "Git/Git. Ключевые слова.md"
               }
             }
           },
@@ -167,6 +167,10 @@
   },
   "active": "e1271907a35b85a7",
   "lastOpenFiles": [
+    "ЯПы/Теория/Графика в C++.md",
+    "ЯПы/Теория/СКУВ.md",
+    "ЯПы/Теория/Репозиторий.md",
+    "Git/Git. Ключевые слова.md",
     "МатАНАЛиз/Теоремы об интегрируемости.md",
     "Git/Untitled.md",
     "Git",
@@ -190,10 +194,6 @@
     "МатАНАЛиз/Несобственные интегралы 2-го рода.md",
     "МатАНАЛиз/Признак Дирихле.md",
     "МатАНАЛиз/Теорема об абсолютной сходимости.md",
-    "МатАНАЛиз/Признак сравнения несобственных интегралов.md",
-    "МатАНАЛиз/Предельный признак сравнения несобственных интегралов.md",
-    "МатАНАЛиз/Интегрирование по частям.md",
-    "МатАНАЛиз/Исследование графика функции (Примеры).md",
     "repository",
     "Вставляемые материалы/Pasted image 20240404140815.png",
     "Вставляемые материалы/Pasted image 20240326102137.png",
