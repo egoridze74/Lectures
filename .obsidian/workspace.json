@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Английский/Journalism.md",
+                "file": "МатАНАЛиз/Несобственные интегралы 2-го рода.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Английский/Journalism.md",
+                "file": "МатАНАЛиз/Несобственные интегралы 2-го рода.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Английский/Journalism.md",
+                "file": "МатАНАЛиз/Несобственные интегралы 2-го рода.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский/Journalism.md"
+                "file": "МатАНАЛиз/Несобственные интегралы 2-го рода.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "e1271907a35b85a7",
   "lastOpenFiles": [
-    "МатАНАЛиз/Untitled.md",
+    "МатАНАЛиз/Несобственные интегралы от неотрицательных функций.md",
     "Английский/Journalism.md",
+    "МатАНАЛиз/Untitled.md",
     "Английский/Untitled.md",
     "МатАНАЛиз/Площадь поверхности тел вращения.md",
     "МатАНАЛиз/Неопределённый интеграл.md",
@@ -192,7 +193,6 @@
     "МатАНАЛиз/Правило Лопиталя.md",
     "МатАНАЛиз/Теорема Дарбу.md",
     "МатАНАЛиз/Непрерывность функции в точке.md",
-    "МатАНАЛиз/Асимптоты.md",
     "Git",
     "repository",
     "Вставляемые материалы/Pasted image 20240404140815.png",
