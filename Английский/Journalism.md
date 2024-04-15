@@ -17,3 +17,4 @@
 - **Get over** - оправиться
 - **Look round** - осмотреться
 - **Come across** - наткнуться
+- **Get through** - превозмочь
