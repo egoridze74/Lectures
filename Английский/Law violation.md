@@ -13,3 +13,17 @@
 - **Deterrent** - сдерживающий фактор
 - **Offender** - преступник
 - **Adolescent** = Teenager - подросток, несовершеннолетний
+
+## Adverbs
+### Gradable (измеримые)
+- Very
+- Extremely
+- Fairly
+- Really
+- Slightly
+### Ungradable (неизмеримые)
+- Absolutely
+- Entirely
+- Really
+- Totally
+- Utterly
