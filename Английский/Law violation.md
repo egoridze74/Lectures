@@ -2,8 +2,13 @@
 - **Burglary** - кража с проникновением (burglar)
 - **Vandalism** - вандализм (vandal)
 - **Pickpocketing** - карманная кража (pickpocket)
-- **Robbery** -  (robber)
+- **Robbery** - ограбление (robber)
 - **Bullying** - буллинг (bully)
 - **Theft** - кража (thief)
 - **Shoplifting** - кража в магазине (shoplifter)
 - **Fraud** - мошенничество (fraudster)
+- **Custodial** - опека либо нахождение под стражей
+- **Delinquency** - правонарушение
+- **Deter** - сдерживать, предотвращать
+- **Deterrent** - сдерживающий фактор
+- **Offender** - преступник
