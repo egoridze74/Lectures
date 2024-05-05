@@ -155,7 +155,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -163,10 +162,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-map-view:Open map view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "d8827fa7feda0c97",
+  "active": "0d8ab88a8c8fa13d",
   "lastOpenFiles": [
     "Линейная алгебра/Метод нахождения собственных векторов.md",
     "Линейная алгебра/Алгебраические дополнения и их свойства.md",
