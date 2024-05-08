@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проект Mark helper/Формула оценки.md",
+                "file": "Тесты/Вопросики для проекта по истории.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проект Mark helper/Формула оценки.md",
+                "file": "Тесты/Вопросики для проекта по истории.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проект Mark helper/Формула оценки.md",
+                "file": "Тесты/Вопросики для проекта по истории.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проект Mark helper/Формула оценки.md"
+                "file": "Тесты/Вопросики для проекта по истории.md"
               }
             }
           },
@@ -168,9 +168,10 @@
   },
   "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
+    "Проект Mark helper/Формула оценки.md",
+    "Тесты/Вопросики для проекта по истории.md",
     "Вставляемые материалы/Pasted image 20240505192642.png",
     "Линейная алгебра/Собственный вектор.md",
-    "Проект Mark helper/Формула оценки.md",
     "Проект Mark helper",
     "Линейная алгебра/Метод нахождения собственных векторов.md",
     "Линейная алгебра/Алгебраические дополнения и их свойства.md",
@@ -205,7 +206,6 @@
     "Вставляемые материалы/Pasted image 20240425132306.png",
     "Вставляемые материалы/Pasted image 20240425131654.png",
     "Вставляемые материалы/Pasted image 20240425131644.png",
-    "Вставляемые материалы/Pasted image 20240425131634.png",
     "Git",
     "repository",
     "Заметки",
