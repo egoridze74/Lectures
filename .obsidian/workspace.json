@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тесты/Вопросики для проекта по истории.md",
+                "file": "Проект Mark helper/Формула оценки.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тесты/Вопросики для проекта по истории.md",
+                "file": "Проект Mark helper/Формула оценки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тесты/Вопросики для проекта по истории.md",
+                "file": "Проект Mark helper/Формула оценки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тесты/Вопросики для проекта по истории.md"
+                "file": "Проект Mark helper/Формула оценки.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
-    "Проект Mark helper/Формула оценки.md",
     "Тесты/Вопросики для проекта по истории.md",
+    "Проект Mark helper/Формула оценки.md",
     "Вставляемые материалы/Pasted image 20240505192642.png",
     "Линейная алгебра/Собственный вектор.md",
     "Проект Mark helper",
