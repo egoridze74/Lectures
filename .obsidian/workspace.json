@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проект Mark helper/Формула оценки.md",
+                "file": "HSE 1st Course Project/Установка и настройка БД.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проект Mark helper/Формула оценки.md",
+                "file": "HSE 1st Course Project/Установка и настройка БД.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проект Mark helper/Формула оценки.md",
+                "file": "HSE 1st Course Project/Установка и настройка БД.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проект Mark helper/Формула оценки.md"
+                "file": "HSE 1st Course Project/Установка и настройка БД.md"
               }
             }
           },
@@ -168,11 +168,12 @@
   },
   "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
+    "HSE 1st Course Project/Формула оценки.md",
+    "HSE 1st Course Project/Установка и настройка БД.md",
     "Тесты/Вопросики для проекта по истории.md",
-    "Проект Mark helper/Формула оценки.md",
     "Вставляемые материалы/Pasted image 20240505192642.png",
     "Линейная алгебра/Собственный вектор.md",
-    "Проект Mark helper",
+    "HSE 1st Course Project",
     "Линейная алгебра/Метод нахождения собственных векторов.md",
     "Линейная алгебра/Алгебраические дополнения и их свойства.md",
     "Линейная алгебра/Теорема о линейной независимости собственных векторов.md",
@@ -202,7 +203,6 @@
     "МатАНАЛиз/Лемма из необходимого условия дифференцируемости.md",
     "Вставляемые материалы/Pasted image 20240425134058.png",
     "Вставляемые материалы/Pasted image 20240425133806.png",
-    "МатАНАЛиз/Непрерывность функции в точке.md",
     "Вставляемые материалы/Pasted image 20240425132306.png",
     "Вставляемые материалы/Pasted image 20240425131654.png",
     "Вставляемые материалы/Pasted image 20240425131644.png",
