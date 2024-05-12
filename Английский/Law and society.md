@@ -13,3 +13,4 @@
 - **bring something to a halt** - остановить что-либо
 - **shirk your responsibilities** - уклоняться от обязанностей
 - **know something is amiss** - знать, что что-то не так
+- **deter** - остановить кого-либо от действия, предупредить

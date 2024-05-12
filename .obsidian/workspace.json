@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HSE 1st Course Project/Установка и настройка БД.md",
+                "file": "Английский/Law and society.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HSE 1st Course Project/Установка и настройка БД.md",
+                "file": "Английский/Law and society.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HSE 1st Course Project/Установка и настройка БД.md",
+                "file": "Английский/Law and society.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HSE 1st Course Project/Установка и настройка БД.md"
+                "file": "Английский/Law and society.md"
               }
             }
           },
@@ -168,8 +168,11 @@
   },
   "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
-    "HSE 1st Course Project/Формула оценки.md",
+    "Английский/Law violation.md",
+    "Английский/Law and society.md",
+    "Английский/Journalism.md",
     "HSE 1st Course Project/Установка и настройка БД.md",
+    "HSE 1st Course Project/Формула оценки.md",
     "Тесты/Вопросики для проекта по истории.md",
     "Вставляемые материалы/Pasted image 20240505192642.png",
     "Линейная алгебра/Собственный вектор.md",
@@ -187,8 +190,6 @@
     "symbols.pdf",
     "Физика/Диполь.md",
     "Физика/Диэлектрики.md",
-    "Английский/Law violation.md",
-    "Английский/Law and society.md",
     "Английский/Conditionals.md",
     "Дискретная математика/Автоматы.md",
     "Вставляемые материалы/Pasted image 20240426154029.png",
@@ -200,7 +201,6 @@
     "Вставляемые материалы/Pasted image 20240425140109.png",
     "МатАНАЛиз/Дифференцируемая нескольких переменных.md",
     "МатАНАЛиз/Необходимое условие дифференцируемости.md",
-    "МатАНАЛиз/Лемма из необходимого условия дифференцируемости.md",
     "Вставляемые материалы/Pasted image 20240425134058.png",
     "Вставляемые материалы/Pasted image 20240425133806.png",
     "Вставляемые материалы/Pasted image 20240425132306.png",
