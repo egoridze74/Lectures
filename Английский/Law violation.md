@@ -7,7 +7,7 @@
 - **Theft** - кража (thief)
 - **Shoplifting** - кража в магазине (shoplifter)
 - **Fraud** - мошенничество (fraudster)
-- **Custodial** - опека либо нахождение под стражей
+- **Custodial** sentence - опека либо нахождение под стражей
 - **Juvenile delinquency** - правонарушение, совершённое подростком
 - **Deter** - сдерживать, предотвращать
 - **Deterrent** - сдерживающий фактор
