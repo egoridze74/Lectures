@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Английский/Law violation.md",
+                "file": "Английский/Law and society.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Английский/Law violation.md",
+                "file": "Английский/Law and society.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Английский/Law violation.md",
+                "file": "Английский/Law and society.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский/Law violation.md"
+                "file": "Английский/Law and society.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
-    "Английский/Law and society.md",
     "Английский/Law violation.md",
+    "Английский/Law and society.md",
     "Английский/Journalism.md",
     "HSE 1st Course Project/Установка и настройка БД.md",
     "HSE 1st Course Project/Формула оценки.md",
