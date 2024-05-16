@@ -14,6 +14,7 @@
 - **Offender** - преступник
 - **Adolescent** = Teenager - подросток, несовершеннолетний
 - **Curfew** - комендантский час
+- **Amend** - исправить закон
 ## Adverbs
 ### Gradable (измеримые)
 - Very
