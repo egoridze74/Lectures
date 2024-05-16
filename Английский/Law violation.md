@@ -13,7 +13,7 @@
 - **Deterrent** - сдерживающий фактор
 - **Offender** - преступник
 - **Adolescent** = Teenager - подросток, несовершеннолетний
-
+- **Curfew** - комендантский час
 ## Adverbs
 ### Gradable (измеримые)
 - Very
