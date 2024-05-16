@@ -15,8 +15,8 @@
 - **know something is amiss** - знать, что что-то не так
 - **deter** - остановить кого-либо от действия, предупредить
 ## Linking phrases
-- **Having said that** -
-- **Although** - 
-- **All fair enough** - 
-- **Whilst** - 
-- **Admittedly** - 
+- **Having said that** - говоря это, мы подразумеваем...
+- **Although** - хотя
+- **All fair enough** - всё достаточно хорошо
+- **Whilst** - пока
+- **Admittedly** - по общему признанию
