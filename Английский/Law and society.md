@@ -14,3 +14,5 @@
 - **shirk your responsibilities** - уклоняться от обязанностей
 - **know something is amiss** - знать, что что-то не так
 - **deter** - остановить кого-либо от действия, предупредить
+## Linking phrases
+- **Having said that** - 
