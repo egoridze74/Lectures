@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Линейная алгебра/Теорема о единственности сопряжённого оператора.md",
+                "file": "Английский/People and ideas - Glossary.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "матрица грама",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Линейная алгебра/Теорема о единственности сопряжённого оператора.md",
+                "file": "Английский/People and ideas - Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Линейная алгебра/Теорема о единственности сопряжённого оператора.md",
+                "file": "Английский/People and ideas - Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Линейная алгебра/Теорема о единственности сопряжённого оператора.md"
+                "file": "Английский/People and ideas - Glossary.md"
               }
             }
           },
@@ -168,9 +168,12 @@
   },
   "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
-    "Линейная алгебра/Сопряжённый оператор.md",
-    "Линейная алгебра/Теорема о единственности сопряжённого оператора.md",
+    "Английский/Indefinite Pronouns.md",
+    "Английский/Journalism.md",
+    "Английский/People and ideas - Glossary.md",
     "Английский/Law and society.md",
+    "Линейная алгебра/Теорема о единственности сопряжённого оператора.md",
+    "Линейная алгебра/Сопряжённый оператор.md",
     "Английский/Law violation.md",
     "Английский/Migration.md",
     "Тесты/Вопросики для проекта по истории.md",
@@ -183,7 +186,6 @@
     "Дискретная математика/Автоматы.md",
     "Дискретная математика/Табличное задание автомата.md",
     "HSE 1st Course Project/Установка и настройка БД.md",
-    "Английский/Journalism.md",
     "HSE 1st Course Project/Формула оценки.md",
     "Вставляемые материалы/Pasted image 20240505192642.png",
     "Линейная алгебра/Собственный вектор.md",
@@ -195,8 +197,6 @@
     "МатАНАЛиз/Частные пределы.md",
     "МатАНАЛиз/Повторные пределы.md",
     "МатАНАЛиз/Предел по множеству.md",
-    "МатАНАЛиз/Первая теорема Вейерштрасса (на множестве).md",
-    "Физика/Вектор электрического смещения. Теорема Гаусса для вектора эл. смещения.md",
     "Вставляемые материалы/Pasted image 20240426154029.png",
     "Вставляемые материалы/Pasted image 20240425141758.png",
     "Вставляемые материалы/Pasted image 20240425141117.png",
