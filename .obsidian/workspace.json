@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Английский/Technology and change - Glossary.md",
+                "file": "Тесты/булгач.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Английский/Technology and change - Glossary.md",
+                "file": "Тесты/булгач.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Английский/Technology and change - Glossary.md",
+                "file": "Тесты/булгач.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский/Technology and change - Glossary.md"
+                "file": "Тесты/булгач.md"
               }
             }
           },
@@ -169,6 +168,8 @@
   },
   "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
+    "Английский/Technology and change - Glossary.md",
+    "Тесты/булгач.md",
     "Английский/People and ideas - Glossary.md",
     "Английский/Indefinite Pronouns.md",
     "Английский/Journalism.md",
@@ -196,8 +197,6 @@
     "Линейная алгебра/Теорема о линейной независимости собственных векторов.md",
     "Линейная алгебра/Теорема о характеристических многочленах подобных матриц.md",
     "МатАНАЛиз/Частные пределы.md",
-    "МатАНАЛиз/Повторные пределы.md",
-    "МатАНАЛиз/Предел по множеству.md",
     "Вставляемые материалы/Pasted image 20240426154029.png",
     "Вставляемые материалы/Pasted image 20240425141758.png",
     "Вставляемые материалы/Pasted image 20240425141117.png",
