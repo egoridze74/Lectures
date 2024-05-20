@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тесты/булгач.md",
+                "file": "Английский/Arts and entertainment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тесты/булгач.md",
+                "file": "Английский/Arts and entertainment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Тесты/булгач.md",
+                "file": "Английский/Arts and entertainment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тесты/булгач.md"
+                "file": "Английский/Arts and entertainment.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
-    "Английский/Technology and change - Glossary.md",
     "Тесты/булгач.md",
+    "Английский/Arts and entertainment.md",
+    "Английский/Technology and change - Glossary.md",
     "Английский/People and ideas - Glossary.md",
     "Английский/Indefinite Pronouns.md",
     "Английский/Journalism.md",
@@ -196,7 +197,6 @@
     "Линейная алгебра/Алгебраические дополнения и их свойства.md",
     "Линейная алгебра/Теорема о линейной независимости собственных векторов.md",
     "Линейная алгебра/Теорема о характеристических многочленах подобных матриц.md",
-    "МатАНАЛиз/Частные пределы.md",
     "Вставляемые материалы/Pasted image 20240426154029.png",
     "Вставляемые материалы/Pasted image 20240425141758.png",
     "Вставляемые материалы/Pasted image 20240425141117.png",
