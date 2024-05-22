@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Английский/Arts and entertainment.md",
+                "file": "Английский/Complex Noun Phrases.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Английский/Arts and entertainment.md",
+                "file": "Английский/Complex Noun Phrases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Английский/Arts and entertainment.md",
+                "file": "Английский/Complex Noun Phrases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский/Arts and entertainment.md"
+                "file": "Английский/Complex Noun Phrases.md"
               }
             }
           },
@@ -168,6 +168,9 @@
   },
   "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
+    "Английский/Passive voice.md",
+    "Английский/Technology and change - Glossary.md",
+    "Английский/Arts and entertainment.md",
     "Физика/Конспект исследования резонанса в цепи переменного тока.md",
     "Линейная алгебра/Изометрический оператор.md",
     "Линейная алгебра/Теоремы самосопряжённого оператора.md",
@@ -178,9 +181,7 @@
     "Линейная алгебра/Теорема о существовании сопряжённого оператора.md",
     "Линейная алгебра/Теорема о единственности сопряжённого оператора.md",
     "Линейная алгебра/Сопряжённый оператор.md",
-    "Английский/Arts and entertainment.md",
     "Тесты/булгач.md",
-    "Английский/Technology and change - Glossary.md",
     "Английский/People and ideas - Glossary.md",
     "Английский/Indefinite Pronouns.md",
     "Английский/Journalism.md",
@@ -194,7 +195,6 @@
     "Линейная алгебра/Отношения.md",
     "Дискретная математика/Эквивалентные автоматы.md",
     "Дискретная математика/Автоматы.md",
-    "Дискретная математика/Табличное задание автомата.md",
     "Вставляемые материалы/Pasted image 20240505192642.png",
     "HSE 1st Course Project",
     "Вставляемые материалы/Pasted image 20240426154029.png",
