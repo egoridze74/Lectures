@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Английский/Law violation.md",
+                "file": "МатАНАЛиз/Дифференциал функции от 2 переменных.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Английский/Law violation.md",
+                "file": "МатАНАЛиз/Дифференциал функции от 2 переменных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Английский/Law violation.md",
+                "file": "МатАНАЛиз/Дифференциал функции от 2 переменных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский/Law violation.md"
+                "file": "МатАНАЛиз/Дифференциал функции от 2 переменных.md"
               }
             }
           },
@@ -168,8 +168,14 @@
   },
   "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
-    "Английский/Journalism.md",
+    "МатАНАЛиз/Дифференцируемые функции n переменных.md",
+    "МатАНАЛиз/Дифференциал функции от 2 переменных.md",
+    "МатАНАЛиз/Необходимое условие дифференцируемости.md",
+    "МатАНАЛиз/Дифференцируемость нескольких переменных.md",
+    "МатАНАЛиз/Достаточное условие дифференцируемости.md",
+    "МатАНАЛиз/Лемма из необходимого условия дифференцируемости.md",
     "Английский/Law violation.md",
+    "Английский/Journalism.md",
     "Английский/Migration.md",
     "Английский/Fashion and consumerism - Glossary.md",
     "Английский/Technology and change - Glossary.md",
@@ -188,12 +194,6 @@
     "Линейная алгебра/Теорема о существовании сопряжённого оператора.md",
     "Линейная алгебра/Теорема о единственности сопряжённого оператора.md",
     "Линейная алгебра/Сопряжённый оператор.md",
-    "Тесты/булгач.md",
-    "Английский/People and ideas - Glossary.md",
-    "Английский/Indefinite Pronouns.md",
-    "Английский/Law and society.md",
-    "Тесты/Вопросики для проекта по истории.md",
-    "Линейная алгебра/Матрица Грама.md",
     "symbols.pdf",
     "Вставляемые материалы/Pasted image 20240505192642.png",
     "HSE 1st Course Project",
