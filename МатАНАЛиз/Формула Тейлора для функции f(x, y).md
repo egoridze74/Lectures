@@ -16,4 +16,4 @@ $z = x^y$ в точке $(e, 0)$
 - $z''_{yy}(e, 0) = \ln x \cdot x^y \ln x = 1$
 
 $\Delta x = (x - e); \ \Delta y = y$
-$z = 1 + 0 \cdot \Delta x + 1 \cdot \Delta y + \frac{1}{2}(0 \cdot \delta x^2)$
+$z = 1 + 0 \cdot \Delta x + 1 \cdot \Delta y + \frac{1}{2}(0 \cdot \delta x^2 + \frac{2}{e} \Delta x \cdot \Delta y + 1 \cdot \Delta y^2) + R_2 = 1 + y + \frac{xy}{e} - y + \frac{y^2}{2} + R_2$
