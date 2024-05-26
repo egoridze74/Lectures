@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ЯПы/Теория/Многопоточные вычисления.md",
+                "file": "HSE 1st Course Project/Установка и настройка БД.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ЯПы/Теория/Многопоточные вычисления.md",
+                "file": "HSE 1st Course Project/Установка и настройка БД.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ЯПы/Теория/Многопоточные вычисления.md",
+                "file": "HSE 1st Course Project/Установка и настройка БД.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ЯПы/Теория/Многопоточные вычисления.md"
+                "file": "HSE 1st Course Project/Установка и настройка БД.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
+    "ЯПы/Теория/Многопоточные вычисления.md",
     "МатАНАЛиз/Формула Тейлора для нескольких переменных.md",
     "МатАНАЛиз/Оценка остаточного члена в формуле Тейлора.md",
     "МатАНАЛиз/Формула Тейлора для функции f(x, y).md",
@@ -198,7 +199,6 @@
     "МатАНАЛиз/Дифференцируемость нескольких переменных.md",
     "МатАНАЛиз/Достаточное условие дифференцируемости.md",
     "МатАНАЛиз/Лемма из необходимого условия дифференцируемости.md",
-    "Английский/Fashion and consumerism - Glossary.md",
     "Вставляемые материалы/Pasted image 20240505192642.png",
     "HSE 1st Course Project",
     "Вставляемые материалы/Pasted image 20240426154029.png",
