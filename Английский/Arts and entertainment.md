@@ -11,8 +11,7 @@
 - **Rambert-trained** - натренированный Рамбертом
 - **R&B-influenced** - под влиянием
 - **abysmal** - extremely bad and low level
-- **emerge** - возникнуть
+- **emerge** - возникнуть, стать популярным
 - **indicate** - что-то обозначить, выделить
 - **erode** - to make something weaker or even destroy
 - **reveal** - показать что-то, раскрыть
-- 
