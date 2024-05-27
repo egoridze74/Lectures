@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Английский/The power of Music.md",
+                "file": "Английский/Arts and entertainment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Английский/The power of Music.md",
+                "file": "Английский/Arts and entertainment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Английский/The power of Music.md",
+                "file": "Английский/Arts and entertainment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский/The power of Music.md"
+                "file": "Английский/Arts and entertainment.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
-    "Английский/Arts and entertainment.md",
     "Английский/The power of Music.md",
+    "Английский/Arts and entertainment.md",
     "Английский/People and ideas - Glossary.md",
     "HSE 1st Course Project/Установка и настройка БД.md",
     "ЯПы/Теория/Многопоточные вычисления.md",
