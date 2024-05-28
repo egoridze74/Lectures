@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгебра/Свойства унитарных матриц.md",
+                "file": "Алгебра/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Алгебра/Свойства унитарных матриц.md",
+                "file": "Алгебра/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Алгебра/Свойства унитарных матриц.md",
+                "file": "Алгебра/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Алгебра/Свойства унитарных матриц.md"
+                "file": "Алгебра/Untitled.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
-    "Алгебра/Факты о самосопряжённых и изометрических операторах.md",
     "Алгебра/Свойства унитарных матриц.md",
+    "Алгебра/Untitled.md",
+    "Алгебра/Факты о самосопряжённых и изометрических операторах.md",
     "Алгебра/Теорема о линейных пространствах.md",
     "Английский/Finite, Non-Finite clauses.md",
     "Английский/The power of Music.md",
@@ -196,7 +197,6 @@
     "symbols.pdf",
     "МатАНАЛиз/Производная сложной функции от нескольких переменных.md",
     "МатАНАЛиз/Нормаль к касательной плоскости.md",
-    "МатАНАЛиз/Касательная плоскость.md",
     "Вставляемые материалы/Pasted image 20240523132728.png",
     "Вставляемые материалы/Pasted image 20240523131710.png",
     "Вставляемые материалы/Pasted image 20240505192642.png",
