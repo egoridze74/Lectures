@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Английский/Finite, Non-Finite clauses.md",
+                "file": "Алгебра/Факты о самосопряжённых и изометрических операторах.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Английский/Finite, Non-Finite clauses.md",
+                "file": "Алгебра/Факты о самосопряжённых и изометрических операторах.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Английский/Finite, Non-Finite clauses.md",
+                "file": "Алгебра/Факты о самосопряжённых и изометрических операторах.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский/Finite, Non-Finite clauses.md"
+                "file": "Алгебра/Факты о самосопряжённых и изометрических операторах.md"
               }
             }
           },
@@ -168,8 +168,10 @@
   },
   "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
-    "Английский/The power of Music.md",
+    "Алгебра/Теорема о линейных пространствах.md",
+    "Алгебра/Факты о самосопряжённых и изометрических операторах.md",
     "Английский/Finite, Non-Finite clauses.md",
+    "Английский/The power of Music.md",
     "Английский/Arts and entertainment.md",
     "Английский/People and ideas - Glossary.md",
     "HSE 1st Course Project/Установка и настройка БД.md",
@@ -197,8 +199,6 @@
     "Вставляемые материалы/Pasted image 20240523132728.png",
     "МатАНАЛиз/Дифференциал функции от 2 переменных.md",
     "Вставляемые материалы/Pasted image 20240523131710.png",
-    "МатАНАЛиз/Дифференцируемые функции n переменных.md",
-    "МатАНАЛиз/Необходимое условие дифференцируемости.md",
     "Вставляемые материалы/Pasted image 20240505192642.png",
     "HSE 1st Course Project",
     "Вставляемые материалы/Pasted image 20240426154029.png",
