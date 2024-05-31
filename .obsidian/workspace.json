@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Английский/Art.md",
+                "file": "Английский/Journalism.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "заменить",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Английский/Art.md",
+                "file": "Английский/Journalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Английский/Art.md",
+                "file": "Английский/Journalism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский/Art.md"
+                "file": "Английский/Journalism.md"
               }
             }
           },
@@ -167,10 +166,24 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "f93640dd40c825cc",
+  "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
-    "Дискретная математика/Основание графа.md",
+    "Английский/Newspapers.md",
+    "Английский/Essay -Advantages, disadvantages-.md",
+    "Английский/Conditionals.md",
+    "Английский/Indefinite Pronouns.md",
+    "Английский/Writing an Essay.md",
+    "Английский/Writing a Paragraph.md",
+    "Английский/Fashion and consumerism - Glossary.md",
+    "Английский/Emphatic structures.md",
+    "Английский/Future in the past.md",
+    "Английский/Passive voice.md",
+    "Английский/Complex Noun Phrases.md",
+    "Английский/Migration.md",
+    "Английский/People and ideas - Glossary.md",
+    "Английский/Finite, Non-Finite clauses.md",
     "Английский/Art.md",
+    "Дискретная математика/Основание графа.md",
     "Дискретная математика/Полуэйлеровый граф.md",
     "Дискретная математика/Эйлеровый граф.md",
     "МатАНАЛиз/Неявные функции.md",
@@ -183,20 +196,6 @@
     "МатАНАЛиз/Геометрический смысл точки стационарности для n = 2.md",
     "Вставляемые материалы/Pasted image 20240530131648.png",
     "Вставляемые материалы/Pasted image 20240530131640.png",
-    "МатАНАЛиз/Касательная плоскость.md",
-    "МатАНАЛиз/Примеры взятия дифференциала.md",
-    "МатАНАЛиз/Формула Тейлора для функции f(x, y).md",
-    "МатАНАЛиз/Формула Тейлора для нескольких переменных.md",
-    "МатАНАЛиз/Оценка остаточного члена в формуле Тейлора.md",
-    "Английский/Finite, Non-Finite clauses.md",
-    "Английский/Arts and entertainment.md",
-    "Английский/The power of Music.md",
-    "Английский/Law and society.md",
-    "Английский/People and ideas - Glossary.md",
-    "Английский/Law violation.md",
-    "HSE 1st Course Project/Установка и настройка БД.md",
-    "Алгебра/Факты о самосопряжённых и изометрических операторах.md",
-    "Алгебра/Свойства унитарных матриц.md",
     "Вставляемые материалы/Pasted image 20240524101022.png",
     "Вставляемые материалы/Pasted image 20240524101009.png",
     "symbols.pdf",
