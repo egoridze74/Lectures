@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Английский/Journalism.md",
+                "file": "Английский/Art.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Английский/Journalism.md",
+                "file": "Английский/Art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Английский/Journalism.md",
+                "file": "Английский/Art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский/Journalism.md"
+                "file": "Английский/Art.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
+    "Английский/Journalism.md",
     "Английский/Newspapers.md",
     "Английский/Essay -Advantages, disadvantages-.md",
     "Английский/Conditionals.md",
@@ -193,7 +194,6 @@
     "МатАНАЛиз/Достаточное условие экстремума.md",
     "МатАНАЛиз/Квадратичная форма.md",
     "МатАНАЛиз/Точка стационарности.md",
-    "МатАНАЛиз/Геометрический смысл точки стационарности для n = 2.md",
     "Вставляемые материалы/Pasted image 20240530131648.png",
     "Вставляемые материалы/Pasted image 20240530131640.png",
     "Вставляемые материалы/Pasted image 20240524101022.png",
