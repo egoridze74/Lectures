@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Эйлер",
+                "query": "заменить",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,7 +167,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "d8827fa7feda0c97",
+  "active": "f93640dd40c825cc",
   "lastOpenFiles": [
     "Дискретная математика/Основание графа.md",
     "Английский/Art.md",
