@@ -1,4 +1,5 @@
 {
   "readableLineLength": true,
-  "attachmentFolderPath": "Вставляемые материалы"
+  "attachmentFolderPath": "Вставляемые материалы",
+  "alwaysUpdateLinks": true
 }
