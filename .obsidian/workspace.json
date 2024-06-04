@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "МатАНАЛиз/Формула Тейлора.md",
+                "file": "МатАНАЛиз/Функции от нескольких переменных.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "МатАНАЛиз/Формула Тейлора.md",
+                "file": "МатАНАЛиз/Функции от нескольких переменных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "МатАНАЛиз/Формула Тейлора.md",
+                "file": "МатАНАЛиз/Функции от нескольких переменных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "МатАНАЛиз/Формула Тейлора.md"
+                "file": "МатАНАЛиз/Функции от нескольких переменных.md"
               }
             }
           },
@@ -169,6 +168,9 @@
   },
   "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
+    "МатАНАЛиз/Функции, непрерывные на множестве.md",
+    "МатАНАЛиз/Дифференциал функции от 2 переменных.md",
+    "МатАНАЛиз/Формула Тейлора.md",
     "МатАНАЛиз/Неявные функции.md",
     "МатАНАЛиз/Матрица Якоби.md",
     "Алгебра/Факты о самосопряжённых и изометрических операторах.md",
@@ -192,9 +194,6 @@
     "Английский/Essay -Advantages, disadvantages-.md",
     "Английский/Writing an Essay.md",
     "Английский/Writing a Paragraph.md",
-    "Английский/Fashion and consumerism - Glossary.md",
-    "Английский/Arts and entertainment.md",
-    "Английский/Art.md",
     "Вставляемые материалы/Pasted image 20240530131648.png",
     "Вставляемые материалы/Pasted image 20240530131640.png",
     "Вставляемые материалы/Pasted image 20240524101022.png",
