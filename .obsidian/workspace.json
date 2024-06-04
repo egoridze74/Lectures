@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "МатАНАЛиз/Функции от нескольких переменных.md",
+                "file": "Алгебра/Изометрический оператор.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "формула Тейлора",
+                "query": "ортогональная ма",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "МатАНАЛиз/Функции от нескольких переменных.md",
+                "file": "Алгебра/Изометрический оператор.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "МатАНАЛиз/Функции от нескольких переменных.md",
+                "file": "Алгебра/Изометрический оператор.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "МатАНАЛиз/Функции от нескольких переменных.md"
+                "file": "Алгебра/Изометрический оператор.md"
               }
             }
           },
@@ -166,8 +167,9 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "d8827fa7feda0c97",
+  "active": "f93640dd40c825cc",
   "lastOpenFiles": [
+    "МатАНАЛиз/Функции от нескольких переменных.md",
     "МатАНАЛиз/Функции, непрерывные на множестве.md",
     "МатАНАЛиз/Дифференциал функции от 2 переменных.md",
     "МатАНАЛиз/Формула Тейлора.md",
@@ -193,7 +195,6 @@
     "Английский/Conditionals.md",
     "Английский/Essay -Advantages, disadvantages-.md",
     "Английский/Writing an Essay.md",
-    "Английский/Writing a Paragraph.md",
     "Вставляемые материалы/Pasted image 20240530131648.png",
     "Вставляемые материалы/Pasted image 20240530131640.png",
     "Вставляемые материалы/Pasted image 20240524101022.png",
