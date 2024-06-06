@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "МатАНАЛиз/Гладкая кривая.md",
+                "file": "МатАНАЛиз/Теорема Юнга для n-переменных.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "любая ортогональная",
+                "query": "якоби",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "МатАНАЛиз/Гладкая кривая.md",
+                "file": "МатАНАЛиз/Теорема Юнга для n-переменных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "МатАНАЛиз/Гладкая кривая.md",
+                "file": "МатАНАЛиз/Теорема Юнга для n-переменных.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "МатАНАЛиз/Гладкая кривая.md"
+                "file": "МатАНАЛиз/Теорема Юнга для n-переменных.md"
               }
             }
           },
@@ -166,10 +167,11 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "d8827fa7feda0c97",
+  "active": "f93640dd40c825cc",
   "lastOpenFiles": [
     "МатАНАЛиз/1-ая теорема Юнга.md",
     "МатАНАЛиз/Гладкая кривая.md",
+    "МатАНАЛиз/Теорема Юнга для n-переменных.md",
     "Вставляемые материалы/Pasted image 20240606131107.png",
     "МатАНАЛиз/Неявные функции.md",
     "Вставляемые материалы/Pasted image 20240606130631.png",
@@ -197,7 +199,6 @@
     "Алгебра/Факты о самосопряжённых и изометрических операторах.md",
     "Алгебра/Поле комплексных чисел.md",
     "Алгебра/Евклидовы пространства.md",
-    "Алгебра/Геометрическая модель поля комплексных чисел.md",
     "Вставляемые материалы/Pasted image 20240530131648.png",
     "Вставляемые материалы/Pasted image 20240530131640.png",
     "Вставляемые материалы/Pasted image 20240524101022.png",
