@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "МатАНАЛиз/Предельный признак сравнения несобственных интегралов.md",
+                "file": "МатАНАЛиз/Признак сравнения несобственных интегралов.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "признак сравнени",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "МатАНАЛиз/Предельный признак сравнения несобственных интегралов.md",
+                "file": "МатАНАЛиз/Признак сравнения несобственных интегралов.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "МатАНАЛиз/Предельный признак сравнения несобственных интегралов.md",
+                "file": "МатАНАЛиз/Признак сравнения несобственных интегралов.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "МатАНАЛиз/Предельный признак сравнения несобственных интегралов.md"
+                "file": "МатАНАЛиз/Признак сравнения несобственных интегралов.md"
               }
             }
           },
@@ -168,6 +169,8 @@
   },
   "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
+    "МатАНАЛиз/Предельный признак сравнения несобственных интегралов.md",
+    "МатАНАЛиз/Признак сравнения несобственных интегралов.md",
     "МатАНАЛиз/Теорема о куске и хвосте.md",
     "МатАНАЛиз/Теорема об абсолютной сходимости.md",
     "МатАНАЛиз/Несобственные интегралы 1-го рода.md",
@@ -202,8 +205,6 @@
     "Вставляемые материалы/Pasted image 20240606130556.png",
     "Английский/Law violation.md",
     "Английский/Law and society.md",
-    "Английский/Arts and entertainment.md",
-    "Английский/Art.md",
     "symbols.pdf",
     "HSE 1st Course Project",
     "Git",
