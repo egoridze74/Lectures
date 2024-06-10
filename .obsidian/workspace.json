@@ -29,9 +29,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9186065b947d75f3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +186,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "d84664a190552518",
+  "active": "9186065b947d75f3",
   "lastOpenFiles": [
     "МатАНАЛиз/Формула Тейлора для нескольких переменных.md",
     "МатАНАЛиз/Формула Тейлора для функции f(x, y).md",
