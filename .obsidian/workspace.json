@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "МатАНАЛиз/Формула Тейлора для нескольких переменных.md",
+                "file": "Английский/Finite, Non-Finite clauses.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "МатАНАЛиз/Формула Тейлора для нескольких переменных.md",
+                "file": "Английский/Finite, Non-Finite clauses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "МатАНАЛиз/Формула Тейлора для нескольких переменных.md",
+                "file": "Английский/Finite, Non-Finite clauses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "МатАНАЛиз/Формула Тейлора для нескольких переменных.md"
+                "file": "Английский/Finite, Non-Finite clauses.md"
               }
             }
           },
@@ -178,8 +178,8 @@
   },
   "active": "d84664a190552518",
   "lastOpenFiles": [
-    "МатАНАЛиз/Формула Тейлора для функции f(x, y).md",
     "МатАНАЛиз/Формула Тейлора для нескольких переменных.md",
+    "МатАНАЛиз/Формула Тейлора для функции f(x, y).md",
     "МатАНАЛиз/Необходимое условие дифференцируемости.md",
     "МатАНАЛиз/Дифференциал функции от 2 переменных.md",
     "МатАНАЛиз/Нормаль к касательной плоскости.md",
