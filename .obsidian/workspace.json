@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Дискретная математика/Неравенство Мак-Миллана.md",
+                "file": "symbols.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Дискретная математика/Неравенство Мак-Миллана.md",
+                "file": "symbols.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Дискретная математика/Неравенство Мак-Миллана.md"
+                "file": "symbols.pdf"
               }
             }
           },
@@ -173,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +189,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "9186065b947d75f3",
+  "active": "5eb6500625c6afcf",
   "lastOpenFiles": [
     "Дискретная математика/Теорема Маркова.md",
     "Дискретная математика/Неравенство Мак-Миллана.md",
