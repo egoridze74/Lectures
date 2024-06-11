@@ -18,32 +18,19 @@
             }
           },
           {
-            "id": "d84664a190552518",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Английский/Finite, Non-Finite clauses.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9186065b947d75f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгебра/Билинейная форма.md",
+                "file": "Алгебра/Квадратичные формы.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "инъективно",
+                "query": "кривые 2-го порядка",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Алгебра/Билинейная форма.md",
+                "file": "Алгебра/Квадратичные формы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Алгебра/Билинейная форма.md",
+                "file": "Алгебра/Квадратичные формы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Алгебра/Билинейная форма.md"
+                "file": "Алгебра/Квадратичные формы.md"
               }
             }
           },
@@ -191,8 +178,10 @@
   },
   "active": "9186065b947d75f3",
   "lastOpenFiles": [
-    "Дискретная математика/Отображения.md",
+    "Геометрия/Классификация кривых второго порядка.md",
+    "Алгебра/Квадратичные формы.md",
     "Алгебра/Билинейная форма.md",
+    "Дискретная математика/Отображения.md",
     "Алгебра/Линейная форма.md",
     "МатАНАЛиз/Несобственные интегралы 1-го рода.md",
     "symbols.pdf",
@@ -216,8 +205,6 @@
     "МатАНАЛиз/Производная сложной функции от нескольких переменных.md",
     "МатАНАЛиз/Примеры взятия дифференциала.md",
     "МатАНАЛиз/Оценка остаточного члена в формуле Тейлора.md",
-    "МатАНАЛиз/Геометрический смысл точки стационарности для n = 2.md",
-    "МатАНАЛиз/Достаточное условие экстремума.md",
     "Вставляемые материалы/Pasted image 20240607001246.png",
     "Вставляемые материалы/Pasted image 20240607001235.png",
     "Вставляемые материалы/Pasted image 20240606231606.png",
