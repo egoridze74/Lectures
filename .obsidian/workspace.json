@@ -76,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,7 +177,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "9186065b947d75f3",
+  "active": "0d8ab88a8c8fa13d",
   "lastOpenFiles": [
     "Алгебра/Преобразование координат (Матрица перехода).md",
     "Алгебра/Теорема о существовании сопряжённого оператора.md",
