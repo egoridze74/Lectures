@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Алгебра/Изометрические операторы на плоскости и в пространстве.md",
+                "file": "symbols.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Алгебра/Изометрические операторы на плоскости и в пространстве.md",
+                "file": "symbols.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Алгебра/Изометрические операторы на плоскости и в пространстве.md"
+                "file": "symbols.pdf"
               }
             }
           },
