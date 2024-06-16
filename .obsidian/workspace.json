@@ -76,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,7 +177,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "9186065b947d75f3",
+  "active": "0d8ab88a8c8fa13d",
   "lastOpenFiles": [
     "Дискретная математика/Центр графа.md",
     "Дискретная математика/Теорема о центре дерева.md",
