@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Дискретная математика/Теорема о центре дерева.md",
+                "file": "Английский/Complex Noun Phrases.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Дискретная математика/Теорема о центре дерева.md",
+                "file": "Английский/Complex Noun Phrases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Дискретная математика/Теорема о центре дерева.md",
+                "file": "Английский/Complex Noun Phrases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Дискретная математика/Теорема о центре дерева.md"
+                "file": "Английский/Complex Noun Phrases.md"
               }
             }
           },
@@ -177,10 +177,10 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "0d8ab88a8c8fa13d",
+  "active": "9186065b947d75f3",
   "lastOpenFiles": [
-    "Дискретная математика/Центр графа.md",
     "Дискретная математика/Теорема о центре дерева.md",
+    "Дискретная математика/Центр графа.md",
     "Дискретная математика/Производящие функции.md",
     "Дискретная математика/Принцип вкл-искл.md",
     "Дискретная математика/Теорема (задача Муавра).md",
