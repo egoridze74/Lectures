@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Английский/Arts and entertainment.md",
+                "file": "Английский/Emphatic structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Английский/Arts and entertainment.md",
+                "file": "Английский/Emphatic structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Английский/Arts and entertainment.md",
+                "file": "Английский/Emphatic structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский/Arts and entertainment.md"
+                "file": "Английский/Emphatic structures.md"
               }
             }
           },
@@ -179,9 +179,13 @@
   },
   "active": "9186065b947d75f3",
   "lastOpenFiles": [
+    "Английский/Art.md",
+    "Английский/The power of Music.md",
+    "Английский/Finite, Non-Finite clauses.md",
+    "Английский/Passive voice.md",
+    "Английский/Arts and entertainment.md",
     "Английский/People and ideas - Glossary.md",
     "Английский/Law and society.md",
-    "Английский/The power of Music.md",
     "Английский/Law violation.md",
     "Английский/Newspapers.md",
     "Английский/Migration.md",
@@ -191,7 +195,6 @@
     "Английский/Future in the past.md",
     "Английский/Emphatic structures.md",
     "Английский/Complex Noun Phrases.md",
-    "Английский/Passive voice.md",
     "Дискретная математика/Теорема о центре дерева.md",
     "Дискретная математика/Центр графа.md",
     "Дискретная математика/Производящие функции.md",
@@ -202,9 +205,6 @@
     "Дискретная математика/Функция энтропии.md",
     "Дискретная математика/Теорема о факториале.md",
     "Дискретная математика/Векторное пространство.md",
-    "Дискретная математика/Производная производящей функции.md",
-    "Дискретная математика/Чётные и нечётные функции.md",
-    "Дискретная математика/Операции с производящими функциями.md",
     "symbols.pdf",
     "Вставляемые материалы/Pasted image 20240607001246.png",
     "Вставляемые материалы/Pasted image 20240607001235.png",
