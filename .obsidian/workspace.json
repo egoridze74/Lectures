@@ -11,26 +11,15 @@
             "id": "d8827fa7feda0c97",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "symbols.pdf"
-              }
-            }
-          },
-          {
-            "id": "9186065b947d75f3",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Английский/Emphatic structures.md",
+                "file": "Английский/Technology and change - Glossary.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Английский/Emphatic structures.md",
+                "file": "Английский/Technology and change - Glossary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Английский/Emphatic structures.md",
+                "file": "Английский/Technology and change - Glossary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский/Emphatic structures.md"
+                "file": "Английский/Technology and change - Glossary.md"
               }
             }
           },
@@ -156,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,8 +165,15 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "9186065b947d75f3",
+  "active": "d8827fa7feda0c97",
   "lastOpenFiles": [
+    "Английский/Future in the past.md",
+    "Английский/Emphatic structures.md",
+    "Английский/Technology and change - Glossary.md",
+    "Английский/Writing a Paragraph.md",
+    "Английский/Fashion and consumerism - Glossary.md",
+    "symbols.pdf",
+    "Past simple.md",
     "Английский/Art.md",
     "Английский/The power of Music.md",
     "Английский/Finite, Non-Finite clauses.md",
@@ -190,10 +185,6 @@
     "Английский/Newspapers.md",
     "Английский/Migration.md",
     "Английский/Journalism.md",
-    "Английский/Fashion and consumerism - Glossary.md",
-    "Английский/Technology and change - Glossary.md",
-    "Английский/Future in the past.md",
-    "Английский/Emphatic structures.md",
     "Английский/Complex Noun Phrases.md",
     "Дискретная математика/Теорема о центре дерева.md",
     "Дискретная математика/Центр графа.md",
@@ -203,9 +194,6 @@
     "Дискретная математика/Отображения.md",
     "Дискретная математика/Оценивания сочетаний.md",
     "Дискретная математика/Функция энтропии.md",
-    "Дискретная математика/Теорема о факториале.md",
-    "Дискретная математика/Векторное пространство.md",
-    "symbols.pdf",
     "Вставляемые материалы/Pasted image 20240607001246.png",
     "Вставляемые материалы/Pasted image 20240607001235.png",
     "Вставляемые материалы/Pasted image 20240606231606.png",
