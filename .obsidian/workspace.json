@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b734e1756b0b8664",
+        "id": "cacc0a256382224b",
         "type": "tabs",
         "children": [
           {
-            "id": "d8827fa7feda0c97",
+            "id": "1e66d280dab6cbff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Английский/Indefinite Pronouns.md",
+                "file": "МатАНАЛиз/Эталонные ряды.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,12 +48,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "центр графа",
+                "query": "tag:#матан",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -85,11 +85,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Английский/Indefinite Pronouns.md",
-                "collapseAll": false,
+                "file": "МатАНАЛиз/Эталонные ряды.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Английский/Indefinite Pronouns.md",
+                "file": "МатАНАЛиз/Эталонные ряды.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский/Indefinite Pronouns.md"
+                "file": "МатАНАЛиз/Эталонные ряды.md"
               }
             }
           },
@@ -165,35 +165,43 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "d8827fa7feda0c97",
+  "active": "1e66d280dab6cbff",
   "lastOpenFiles": [
-    "Английский/Technology and change - Glossary.md",
-    "Английский/Future in the past.md",
-    "Английский/Emphatic structures.md",
-    "Английский/Writing a Paragraph.md",
-    "Английский/Fashion and consumerism - Glossary.md",
+    "МатАНАЛиз/Знакоположительные ряды. Признаки сравнения рядов.md",
+    "МатАНАЛиз/Эталонные ряды.md",
+    "МатАНАЛиз/Свойства числовых рядов.md",
+    "МатАНАЛиз/Критерий Коши сходимости числового ряда.md",
+    "МатАНАЛиз/Фундаментальная последовательность.md",
+    "МатАНАЛиз/Необходимый признак сходимости числового ряда.md",
+    "МатАНАЛиз/Множество.md",
+    "МатАНАЛиз/Формула Тейлора для нескольких переменных.md",
+    "МатАНАЛиз/Касательные и выпуклость.md",
+    "МатАНАЛиз/Исследование графика функции.md",
+    "МатАНАЛиз/Отрезок ряда. Остаток ряда.md",
+    "МатАНАЛиз/Сумма ряда. Сходимость.md",
+    "МатАНАЛиз/Числовые ряды.md",
+    "ДГКМ/Список.md",
+    "ДГКМ/Вектора и матрицы.md",
+    "ДГКМ/Исследование функций.md",
+    "ДГКМ/Лямбды в wolfram (чистые функции).md",
+    "Рекурсия.md",
+    "ОИБ/Свойства информации.md",
+    "ОИБ/Объект информатизации.md",
+    "ОИБ/Информация.md",
+    "История искусства/Древний Египет.md",
+    "ОИБ",
+    "История искусства",
+    "Untitled.md",
+    "Алгебра Анашкин/Отношение на множестве.md",
+    "Алгебра Анашкин/Виды множеств, свойства множеств.md",
+    "Алгебра Анашкин/Композиция отображений.md",
+    "Алгебра Анашкин",
     "symbols.pdf",
-    "Past simple.md",
-    "Английский/Art.md",
-    "Английский/The power of Music.md",
-    "Английский/Finite, Non-Finite clauses.md",
-    "Английский/Passive voice.md",
-    "Английский/Arts and entertainment.md",
-    "Английский/People and ideas - Glossary.md",
-    "Английский/Law and society.md",
-    "Английский/Law violation.md",
-    "Английский/Newspapers.md",
-    "Английский/Migration.md",
-    "Английский/Journalism.md",
-    "Английский/Complex Noun Phrases.md",
-    "Дискретная математика/Теорема о центре дерева.md",
-    "Дискретная математика/Центр графа.md",
-    "Дискретная математика/Производящие функции.md",
-    "Дискретная математика/Принцип вкл-искл.md",
-    "Дискретная математика/Теорема (задача Муавра).md",
-    "Дискретная математика/Отображения.md",
-    "Дискретная математика/Оценивания сочетаний.md",
-    "Дискретная математика/Функция энтропии.md",
+    "Вставляемые материалы/Pasted image 20240909111243.png",
+    "Алгебра (Анашкин)",
+    "ДГКМ",
+    "SnailSlice",
+    "Рецепты",
     "Вставляемые материалы/Pasted image 20240607001246.png",
     "Вставляемые материалы/Pasted image 20240607001235.png",
     "Вставляемые материалы/Pasted image 20240606231606.png",
@@ -203,16 +211,8 @@
     "Вставляемые материалы/Pasted image 20240606135443.png",
     "Вставляемые материалы/Pasted image 20240606131107.png",
     "Вставляемые материалы/Pasted image 20240606130631.png",
-    "Вставляемые материалы/Pasted image 20240606130556.png",
     "HSE 1st Course Project",
     "Git",
-    "repository",
-    "Заметки",
-    "Дискретная математика/Untitled",
-    "Английский",
-    "Новая папка",
-    "Физика/Лабораторные работы",
-    "Квартира",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
