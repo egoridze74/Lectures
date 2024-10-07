@@ -1,0 +1,12 @@
+#english #vocabulary 
+- Pushy parents - настойчивые родители
+- Tacky toys - бессмысленные, обыкновенные игрушки
+- Glowing recommendation - блестящая рекомендация
+- Modest ambitions - скромные амбиции
+- Sugary snacks - сладкие закуски
+- Adoring fans - обожающие фанаты
+- Outrageous sums of money - возмутительные суммы денег
+- Meagre - мало, меньше, чем хотелось
+- Gushing - слишком блестящее, не правдивое, ненастоящее
+- Doting - любящие, но слишком (helicopter-parents)
+- Consuming ambition - всепоглощающая амбиция
