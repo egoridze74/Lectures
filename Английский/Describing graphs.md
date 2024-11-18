@@ -1,4 +1,4 @@
-#english 
+#english #для_экзов 
 ## Words
 ![[Pasted image 20241004134636.png]]
 ## Percentage
@@ -9,7 +9,7 @@ We can use words like:
 - less than
 with fractions to describe the percent.
 
-## Слово "составляет n процентов"
+## Слова "составляет n процентов"
 - take up
 - make up
 - accounts for
