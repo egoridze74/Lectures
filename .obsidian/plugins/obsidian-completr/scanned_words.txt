@@ -600,6 +600,7 @@ wD
 wB
 wSD
 wy
+woflram
 heartwarming
 have
 however
@@ -985,6 +986,7 @@ SPk
 Sy
 SyZ
 Size
+SVD
 Ruddock
 Relaxed
 Rowdy
@@ -1288,6 +1290,7 @@ MC
 MDSTI
 Mtv
 MHf
+Module
 Woman
 With
 We
@@ -1964,6 +1967,7 @@ db
 duAj
 dU
 dM
+dx
 Oy
 Ox
 Overall
@@ -2236,6 +2240,7 @@ FC
 Fly
 Fb
 Fullbanner
+Flatten
 January
 June
 July
@@ -2349,6 +2354,7 @@ PP
 Pages
 PTEX
 Producer
+Polynomial
 Kyoto
 Korea
 Kw
@@ -2528,6 +2534,7 @@ QIG
 Qr
 Qv
 QO
+QR
 Xt
 Xz
 XIe
