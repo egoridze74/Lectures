@@ -59,6 +59,12 @@ ed
 eC
 ekP
 eiWE
+expensive
+extreme
+entirely
+extremely
+essentially
+escape
 Gray
 Graph
 Generally
@@ -94,6 +100,8 @@ Gi
 GR
 Gn
 GAn
+Grapple
+Gradable
 and
 autumn
 about
@@ -189,6 +197,13 @@ ad
 acms
 av
 aG
+adjectives
+absolute
+astonished
+amzaing
+absolutely
+adj
+alpha
 sad
 seems
 short
@@ -335,6 +350,12 @@ si
 sULvw
 suMzw
 startxref
+stronger
+such
+superlative
+strictly
+seriously
+sin
 is
 in
 into
@@ -475,6 +496,9 @@ tz
 tB
 tm
 trailer
+terrible
+totally
+terribly
 best
 by
 be
@@ -541,6 +565,10 @@ bPp
 bXu
 bJD
 bF
+brains
+big
+barely
+bitterly
 watch
 which
 written
@@ -601,6 +629,8 @@ wB
 wSD
 wy
 woflram
+wonderful
+weekly
 heartwarming
 have
 however
@@ -656,6 +686,8 @@ hu
 hX
 hJg
 hCA
+happy
+hilarious
 film
 first
 faults
@@ -721,6 +753,9 @@ follownotdbleqv
 fe
 fc
 fJ
+forms
+formal
+frac
 relationships
 ran
 realised
@@ -799,6 +834,7 @@ rI
 ro
 rh
 rD
+rightarrow
 glance
 great
 good
@@ -866,6 +902,8 @@ ge
 gk
 ga
 gU
+gradable
+gh
 Unspoken
 Usage
 Unclear
@@ -895,6 +933,8 @@ Uy
 UF
 Uj
 UCP
+Ungradable
+Undgarable
 Tom
 The
 This
@@ -987,6 +1027,8 @@ Sy
 SyZ
 Size
 SVD
+Shed
+Some
 Ruddock
 Relaxed
 Rowdy
@@ -1022,6 +1064,9 @@ RB
 RlM
 RSI
 Root
+Ruminate
+Rack
+RRR
 main
 meeting
 message
@@ -1091,6 +1136,10 @@ mv
 mS
 mC
 mn
+meaning
+made
+medical
+modify
 characters
 cute
 come
@@ -1194,6 +1243,10 @@ cw
 cA
 cZ
 cs
+called
+comparative
+cannot
+cos
 of
 once
 other
@@ -1246,6 +1299,9 @@ oXWO
 oh
 oe
 oZY
+ot
+op
+ord
 Man
 March
 Meanwhile
@@ -1291,6 +1347,12 @@ MDSTI
 Mtv
 MHf
 Module
+Mulling
+Misconstrue
+Misread
+Misinterpreting
+Most
+Modifiers
 Woman
 With
 We
@@ -1334,6 +1396,7 @@ Wt
 WWAcA
 WIr
 Wg
+Wrestling
 neighbours
 notes
 noticeable
@@ -1464,6 +1527,9 @@ AQ
 AV
 Ax
 AI
+Adjectives
+Adverbs
+ABSOLUTELY
 unfortunate
 undestanding
 unrealistic
@@ -1523,6 +1589,9 @@ uj
 uiBH
 uLr
 ur
+ungradable
+unconscious
+utterly
 paper
 plot
 perception
@@ -1599,6 +1668,9 @@ pxT
 pdfTeX
 pretest
 pdfcrypt
+perfect
+pretty
+perfectly
 lovely
 loaded
 library
@@ -1662,6 +1734,9 @@ lp
 lD
 lm
 lOt
+light
+less
+legal
 very
 viewer
 vocabulary
@@ -1706,6 +1781,7 @@ vH
 vEJp
 vQ
 vA
+virtually
 you
 year
 yearly
@@ -1782,6 +1858,7 @@ DK
 DZi
 DI
 DQf
+Deliberate
 know
 km
 kilometres
@@ -1968,6 +2045,11 @@ duAj
 dU
 dM
 dx
+defined
+dead
+deeply
+dots
+definition
 Oy
 Ox
 Overall
@@ -2004,6 +2086,8 @@ OQ
 OJ
 OtB
 OT
+Other
+OX
 Negative
 November
 Next
@@ -2076,6 +2160,7 @@ qF
 qk
 qx
 qJ
+qualified
 You
 Yes
 Yhep
@@ -2159,6 +2244,8 @@ CL
 Count
 Catalog
 CreationDate
+COMPLETELY
+CCC
 Library
 London
 Los
@@ -2194,6 +2281,7 @@ Lt
 Lm
 Lu
 Lw
+LLL
 Following
 February
 For
@@ -2310,6 +2398,8 @@ BS
 Bm
 BSU
 Bb
+Baffled
+Befuddled
 Paris
 Pie
 Positive
@@ -2355,6 +2445,9 @@ Pages
 PTEX
 Producer
 Polynomial
+Perplexed
+Ponder
+Pin
 Kyoto
 Korea
 Kw
@@ -2430,6 +2523,7 @@ EN
 EF
 EG
 EOF
+Examples
 Housing
 Harsh
 How
@@ -2499,6 +2593,7 @@ VrV
 Vn
 VG
 Version
+VERY
 Question
 Qualifying
 QH
@@ -2535,6 +2630,7 @@ Qr
 Qv
 QO
 QR
+Quite
 Xt
 Xz
 XIe
@@ -2598,6 +2694,7 @@ Zv
 ZNF
 ZT
 ZD
+Zero
 za
 zE
 zh
