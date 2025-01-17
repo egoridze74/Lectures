@@ -65,6 +65,7 @@ entirely
 extremely
 essentially
 escape
+effect
 Gray
 Graph
 Generally
@@ -356,6 +357,7 @@ superlative
 strictly
 seriously
 sin
+smthg
 is
 in
 into
@@ -499,6 +501,7 @@ trailer
 terrible
 totally
 terribly
+theme
 best
 by
 be
@@ -569,6 +572,7 @@ brains
 big
 barely
 bitterly
+backdrop
 watch
 which
 written
@@ -756,6 +760,7 @@ fJ
 forms
 formal
 frac
+fear
 relationships
 ran
 realised
@@ -835,6 +840,7 @@ ro
 rh
 rD
 rightarrow
+reflect
 glance
 great
 good
@@ -935,6 +941,8 @@ Uj
 UCP
 Ungradable
 Undgarable
+Underlying
+Underneath
 Tom
 The
 This
@@ -981,6 +989,10 @@ Tw
 TXw
 TGe
 TO
+Totally
+Ties
+Takes
+Tapping
 Shelley
 Surprise
 Statement
@@ -1029,6 +1041,7 @@ Size
 SVD
 Shed
 Some
+Spring
 Ruddock
 Relaxed
 Rowdy
@@ -1067,6 +1080,8 @@ Root
 Ruminate
 Rack
 RRR
+Resonates
+Reflect
 main
 meeting
 message
@@ -1140,6 +1155,8 @@ meaning
 made
 medical
 modify
+minuses
+my
 characters
 cute
 come
@@ -1302,6 +1319,7 @@ oZY
 ot
 op
 ord
+onto
 Man
 March
 Meanwhile
@@ -1353,6 +1371,7 @@ Misread
 Misinterpreting
 Most
 Modifiers
+Mirror
 Woman
 With
 We
@@ -1397,6 +1416,7 @@ WWAcA
 WIr
 Wg
 Wrestling
+Word
 neighbours
 notes
 noticeable
@@ -1530,6 +1550,9 @@ AI
 Adjectives
 Adverbs
 ABSOLUTELY
+Agree
+Advantages
+Alternates
 unfortunate
 undestanding
 unrealistic
@@ -1782,6 +1805,7 @@ vEJp
 vQ
 vA
 virtually
+view
 you
 year
 yearly
@@ -1859,6 +1883,7 @@ DZi
 DI
 DQf
 Deliberate
+Disadvantages
 know
 km
 kilometres
@@ -2448,6 +2473,8 @@ Polynomial
 Perplexed
 Ponder
 Pin
+Partly
+Pluses
 Kyoto
 Korea
 Kw
@@ -2480,6 +2507,7 @@ KZ
 Kz
 Kx
 Kids
+Knock
 European
 Europe
 East
@@ -2524,6 +2552,9 @@ EF
 EG
 EOF
 Examples
+Equally
+Echoes
+Evoke
 Housing
 Harsh
 How
