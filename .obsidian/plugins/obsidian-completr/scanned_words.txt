@@ -66,6 +66,8 @@ extremely
 essentially
 escape
 effect
+eapopova
+exists
 Gray
 Graph
 Generally
@@ -103,6 +105,7 @@ Gn
 GAn
 Grapple
 Gradable
+Good
 and
 autumn
 about
@@ -411,6 +414,8 @@ ij
 iO
 iTK
 iy
+infty
+iff
 the
 time
 to
@@ -692,6 +697,7 @@ hJg
 hCA
 happy
 hilarious
+hse
 film
 first
 faults
@@ -761,6 +767,7 @@ forms
 formal
 frac
 fear
+forall
 relationships
 ran
 realised
@@ -943,6 +950,7 @@ Ungradable
 Undgarable
 Underlying
 Underneath
+UNIX
 Tom
 The
 This
@@ -1157,6 +1165,7 @@ medical
 modify
 minuses
 my
+mathbb
 characters
 cute
 come
@@ -1264,6 +1273,8 @@ called
 comparative
 cannot
 cos
+cong
+cdot
 of
 once
 other
@@ -1320,6 +1331,8 @@ ot
 op
 ord
 onto
+otimes
+overline
 Man
 March
 Meanwhile
@@ -1417,6 +1430,7 @@ WIr
 Wg
 Wrestling
 Word
+Windows
 neighbours
 notes
 noticeable
@@ -1553,6 +1567,7 @@ ABSOLUTELY
 Agree
 Advantages
 Alternates
+Assembler
 unfortunate
 undestanding
 unrealistic
@@ -2476,6 +2491,7 @@ Ponder
 Pin
 Partly
 Pluses
+POS
 Kyoto
 Korea
 Kw
@@ -2556,6 +2572,7 @@ Examples
 Equally
 Echoes
 Evoke
+Exp
 Housing
 Harsh
 How
