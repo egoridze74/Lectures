@@ -30,7 +30,9 @@ $\implies P((a; b]) = F(b) - F(a)$
 	$f(t) \geq 0$
 	$f(t) = \begin{cases} 1, \ t \in [0; 1] \\ 0, \ иначе \end{cases}$
 	$F(x) = \int\limits_{0}^{x} 1 dt = x$
+	![[Pasted image 20250203195430.png|300]]
 3. Сингулярная функция распределения
 	$F(x)$ - Канторова лестница
 	$F_K(x) \to F(x)$
 	$\sum\limits_{k = 1}^{\infty} \frac{2^{k - 1}}{3^k} = \frac{1}{3} \sum\limits_{k = 1}^{\infty} (\frac{2}{3})^{k - 1} = 1$
+	![[Pasted image 20250203195455.png|300]]
