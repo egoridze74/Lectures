@@ -7,7 +7,7 @@
 	"That joke was **nowhere near as** funny **as** you thought it was".
 	"He's nothing like as clever as his father".
 2.  Some adverbs have a comparative form similar to adjectives.
-	"She can think of puns faster than anyone I know". 
+	"She can think of puns **faster** than anyone I know". 
 	
 	Adverbs formed from adjectives (with a -ly ending) are formed with more or less.
 	"She can think of puns **more quickly** than anyone I know". 
