@@ -8,7 +8,7 @@
 | ploy, ruse                              | technique that involves turning a situation to your advantage (уловки) |
 | see through something                   | correctly identifying when someone is trying to deceive you            |
 | be taken in by, be ripped off, be duped | be deceived by something                                               |
-| gullible                                | easy to deceive                                                        |
+| gullible, vulnerable                    | easy to deceive                                                        |
 | vigilant, streetwise, discerning        | aware of deception (бдительный, разборчивый)                           |
 | luring                                  | attracting into trap                                                   |
 | above board                             | real, true, legal                                                      |
