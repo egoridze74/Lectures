@@ -16,7 +16,7 @@ $a \cdot b + n(-q) = 1 \implies (a, n) = 1$
 $n = d \cdot k, \ 1 < k < n$
 $[d]_n \cdot [k]_n = [0]_n$ - противоречие, так как тогда эти числа - делители нуля, а в поле их нет
 
-## Утверждение про поле из [[Фактор-кольцо ДОПИСАТЬ|фактор-кольца]]
+## Утверждение про поле из [[Фактор-кольцо|фактор-кольца]]
 Пусть R - коммутативное кольцо с единицей, $I \vartriangleleft R$, тогда:
 $\overline{R} = R/I$ - поле $\iff$ I - [[Главный идеал. Кольцо главных идеалов. Максимальный идеал|максимальный]] в R
 
@@ -31,7 +31,7 @@ $\varnothing \neq J \ni a \ (r = e, i = 0)$
 $(ar + i) - (ar' + i') = a(r - r') + (i - i') \in J$
 
 $(J, +)$ - абелева группа
-$(ar + i)(ar' + i') = a(rar') + ari' + iar' + i \cdot i' \in J \implies$ [[Подкольцо ДОПИСАТЬ]]
+$(ar + i)(ar' + i') = a(rar') + ari' + iar' + i \cdot i' \in J \implies$ [[Подкольцо]]
 
 $(ar + i) \cdot r' = ar \cdot r' + i r' \in J$
 $J \vartriangleleft R$, но $I \subsetneq J$
@@ -60,7 +60,7 @@ $g_1H = g_2H \iff g_2^{-1}g_1 \in H$
 $g_1 - g_2 \in H$
 
 ## Утверждение про евклидово кольцо и [[Главный идеал. Кольцо главных идеалов. Максимальный идеал|КГИ]]
-$R$ - [[Евклидово кольцо. Алгоритм Евклида. Анашкин ДОПИСАТЬ|Евклидово кольцо]] $\implies$ R - КГИ
+$R$ - [[Евклидово кольцо. Алгоритм Евклида. Анашкин|Евклидово кольцо]] $\implies$ R - КГИ
 $I \vartriangleleft R \implies \exists \ a \in R: \ I = aR$
 - $a = 0 \implies I = 0$
 - $a \in R^* \implies I = R$
@@ -68,7 +68,7 @@ $I \vartriangleleft R \implies \exists \ a \in R: \ I = aR$
 	a - неразложимый или $a = a_1 \cdot a_2 \cdot \dots a_n$, где $a_i$ - неразложимые
 
 $I \vartriangleleft J \vartriangleleft R$
-Приравниваем это к $bR \vartriangleleft bR \vartriangleleft eR (\vartriangleleft R)$
+Приравниваем это к $bR \vartriangleleft cR \vartriangleleft eR (\vartriangleleft R)$
 Значит, $^{c}|_{b}, \ ^{e}|_{c} \implies b = c \cdot d$
 
 В итоге получаем, что:

@@ -5,19 +5,19 @@
 | -------------------------- | ---------------------------------------- |
 | out of my depth            | lack of skills (out of my understanding) |
 | tottally incompetent       | lack of skills                           |
-| have an aptitude for       | talent, ability                          |
+| have an aptitude for       | talent, ability from the childhood       |
 | innate ability             | talent                                   |
 | rusty                      | losing your skills without practice      |
-| all-rounder                | you can do it yourself                   |
-| versatile                  | you can do it yourself                   |
-| can turn hand to           | highly skilled                           |
+| all-rounder                | you can do many tasks on medium level    |
+| versatile                  | you can do many tasks on medium level    |
+| can turn hand to           | good for first attempt                   |
 | computer illiterate        | lack of skills                           |
-| savvy                      | high skills                              |
+| savvy (tech-savvy)         | highly skilled                           |
 | novice                     | beginning                                |
 | learn the basics           | beginning                                |
 | could get by               | beginning                                |
 | to be proficient at smthng | experienced                              |
-| accomplished               | high skills                              |
+| accomplished               | highly skilled                           |
 | to be adept at smthng      | highly skilled                           |
 | be natural                 | highly skilled                           |
 | to be inept at smthng      | lack of skills (opposite to adept)       |

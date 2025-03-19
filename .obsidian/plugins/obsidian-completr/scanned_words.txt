@@ -153,6 +153,11 @@ enlgish
 easy
 especially
 empty
+expressed
+evidence
+explanation
+examples
+express
 Gray
 Graph
 Generally
@@ -417,6 +422,11 @@ accomplished
 adept
 anybody
 article
+allude
+avoid
+away
+air
+attempt
 sad
 seems
 short
@@ -673,6 +683,11 @@ structures
 shorten
 suggestions
 setting
+story
+supporting
+steer
+scenic
+steps
 is
 in
 into
@@ -805,6 +820,11 @@ inept
 ing
 infinitives
 ingredients
+involve
+importance
+intuition
+inaccesible
+isolated
 the
 time
 to
@@ -974,6 +994,9 @@ tottally
 talent
 turn
 template
+tell
+tasks
+tech
 best
 by
 be
@@ -1118,6 +1141,9 @@ beginning
 basics
 blog
 buy
+break
+beautiful
+back
 watch
 which
 written
@@ -1231,6 +1257,7 @@ weeks
 without
 writer
 work
+will
 heartwarming
 have
 however
@@ -1347,6 +1374,7 @@ hcp
 hT
 highly
 high
+herd
 film
 first
 faults
@@ -1488,6 +1516,9 @@ following
 famous
 full
 fdm
+facts
+final
+flies
 relationships
 ran
 realised
@@ -1644,6 +1675,10 @@ rusty
 rounder
 removing
 resources
+rule
+restate
+repeating
+retrace
 glance
 great
 good
@@ -1771,6 +1806,8 @@ gW
 gullible
 gone
 get
+getting
+gut
 Unspoken
 Usage
 Unclear
@@ -2310,6 +2347,11 @@ modifiers
 metres
 must
 machine
+might
+many
+meat
+may
+medium
 characters
 cute
 come
@@ -2498,6 +2540,11 @@ cameras
 computer
 could
 clueless
+cardinal
+contain
+crow
+choose
+childhood
 of
 once
 other
@@ -2607,6 +2654,8 @@ opr
 online
 opposite
 often
+outdoors
+open
 Man
 March
 Meanwhile
@@ -2967,6 +3016,7 @@ never
 novice
 natural
 nouns
+necessary
 After
 As
 Angeles
@@ -3392,6 +3442,11 @@ participle
 printers
 profiles
 parameters
+paragraphing
+provides
+particular
+part
+paraphrasing
 lovely
 loaded
 library
@@ -3534,6 +3589,9 @@ losing
 learn
 looking
 liked
+longer
+long
+location
 very
 viewer
 vocabulary
@@ -3653,6 +3711,7 @@ vigilant
 vulnerable
 versatile
 voice
+vague
 you
 year
 yearly
@@ -4268,6 +4327,11 @@ deceived
 discerning
 depth
 dabble
+definite
+detail
+degrees
+doing
+distance
 Oy
 Ox
 Overall
@@ -4778,6 +4842,7 @@ CJv
 CB
 CRU
 CitK
+Concluding
 Library
 London
 Los
@@ -5285,6 +5350,7 @@ PSi
 PWGg
 Passive
 Prepositional
+Phrase
 Kyoto
 Korea
 Kw
@@ -5643,6 +5709,7 @@ Vcl
 VfS
 Vr
 Vc
+Vocabulary
 Question
 Qualifying
 QH

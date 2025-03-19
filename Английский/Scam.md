@@ -3,7 +3,7 @@
 
 | Word/phrase                             | Definition                                                             |
 | --------------------------------------- | ---------------------------------------------------------------------- |
-| scam, con                               | trick that involves deception                                          |
+| scam, con                               | trick that involves deception (шантаж)                                 |
 | scammers, con artists                   | people who use tricks to deceive                                       |
 | ploy, ruse                              | technique that involves turning a situation to your advantage (уловки) |
 | see through something                   | correctly identifying when someone is trying to deceive you            |
