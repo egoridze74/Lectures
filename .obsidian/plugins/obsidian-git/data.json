@@ -1,15 +1,15 @@
 {
-  "commitMessage": "vault backup: {{date}}",
-  "commitDateFormat": "DD-MM-YYYY HH:mm:ss",
-  "autoSaveInterval": 10,
+  "commitMessage": "manual backup: {{date}}",
+  "commitDateFormat": "DD.MM.YYYY HH:MM",
+  "autoSaveInterval": 1440,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
-  "autoPullOnBoot": false,
+  "autoPullOnBoot": true,
   "disablePush": false,
-  "pullBeforePush": true,
+  "pullBeforePush": false,
   "disablePopups": false,
   "disablePopupsForNoChanges": false,
-  "listChangedFilesInMessageBody": false,
+  "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
@@ -54,5 +54,5 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
-  "autoCommitMessage": "vault backup: {{date}}"
+  "autoCommitMessage": "auto backup: {{date}}"
 }
