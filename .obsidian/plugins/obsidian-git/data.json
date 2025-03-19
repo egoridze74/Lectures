@@ -8,7 +8,7 @@
   "disablePush": false,
   "pullBeforePush": false,
   "disablePopups": false,
-  "disablePopupsForNoChanges": false,
+  "disablePopupsForNoChanges": true,
   "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
