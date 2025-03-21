@@ -2,7 +2,7 @@
   "rememberMatrixType": true,
   "rememberMatrixDimensions": true,
   "inline": true,
-  "lastUsedMatrix": "Square brackets (bmatrix)",
-  "prevX": 1,
-  "prevY": 2
+  "lastUsedMatrix": "Parentheses (pmatrix)",
+  "prevX": 5,
+  "prevY": 5
 }
