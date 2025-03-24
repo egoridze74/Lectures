@@ -1,7 +1,7 @@
 {
   "commitMessage": "manual backup: {{date}}",
   "commitDateFormat": "DD.MM.YYYY HH:MM",
-  "autoSaveInterval": 1440,
+  "autoSaveInterval": 20,
   "autoPushInterval": 1440,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
