@@ -13,15 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Искусство/Коллекционирование и рынок.md",
+                "file": "МатАНАЛиз/Экстремумы функции.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Коллекционирование и рынок"
+              "title": "Экстремумы функции"
+            }
+          },
+          {
+            "id": "143082bd749e676d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "МатАНАЛиз/Гамма-функция Эйлера ДОПИСАТЬ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Гамма-функция Эйлера ДОПИСАТЬ"
+            }
+          },
+          {
+            "id": "73ad6fa52ecea40f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "symbols.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "symbols"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "простая случа",
+                "query": "выпуклость",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +101,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,10 +214,23 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "01e6e163f6acc6b5",
+  "active": "143082bd749e676d",
   "lastOpenFiles": [
-    "Искусство/Проект.md",
+    "Вставляемые материалы/Pasted image 20250404105038.png",
+    "symbols.pdf",
+    "МатАНАЛиз/Гамма-функция Эйлера ДОПИСАТЬ.md",
+    "МатАНАЛиз/Касательные и выпуклость.md",
+    "МатАНАЛиз/Экстремумы функции.md",
+    "Вставляемые материалы/Pasted image 20250404101911.png",
+    "Вставляемые материалы/Pasted image 20250404101904.png",
+    "История криптографии/Пример варианта кр.md",
+    "МатАНАЛиз/Несобственные интегралы 1-го рода, зависящие от параметра.md",
+    "МатАНАЛиз/Несобственные интегралы 1-го рода.md",
+    "МатАНАЛиз/Несобственные интегралы 2-го рода.md",
+    "МатАНАЛиз/Несобственные интегралы от неотрицательных функций.md",
+    "МатАНАЛиз/Неявные функции.md",
     "Искусство/Коллекционирование и рынок.md",
+    "Искусство/Проект.md",
     "Искусство/Эпоха барокко.md",
     "Искусство/Салоны Дидро. 1765.md",
     "Искусство/Римское искусство.md",
@@ -207,25 +248,12 @@
     "Рэп/Frat rap.md",
     "Рэп/Rap Rock.md",
     "Рэп/Cloud rap.md",
-    "Рэп/Latin trap.md",
-    "Рэп/Counrty trap.md",
-    "Рэп/Grime.md",
-    "Рэп/Old School.md",
-    "Рэп/Boom-Bap.md",
-    "Рэп/Gangsta-rap.md",
-    "Рэп/Jazz-rap.md",
-    "Рэп/Trap.md",
-    "Рэп/Drill.md",
-    "Рэп/UK drill.md",
     "Рэп",
-    "symbols.pdf",
     "Вставляемые материалы/Pasted image 20250325003451.png",
     "Вставляемые материалы/Pasted image 20250325003429.png",
     "Вставляемые материалы/Pasted image 20250325003201.png",
     "Вставляемые материалы/Pasted image 20250325002948.png",
     "Вставляемые материалы/Pasted image 20250321182932.png",
-    "Вставляемые материалы/Pasted image 20250321181436.png",
-    "Вставляемые материалы/Pasted image 20250321181359.png",
     "Untitled.canvas",
     "Алгебра",
     "Вставляемые материалы/Ink/Drawing/2025.2.25 - 16.42pm.drawing",
