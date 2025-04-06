@@ -254,6 +254,8 @@ GBF
 Gc
 GRN
 GWN
+Gang
+Giccu
 and
 autumn
 about
@@ -688,6 +690,7 @@ supporting
 steer
 scenic
 steps
+snare
 is
 in
 into
@@ -1144,6 +1147,8 @@ buy
 break
 beautiful
 back
+boom
+bap
 watch
 which
 written
@@ -1375,6 +1380,7 @@ hT
 highly
 high
 herd
+hat
 film
 first
 faults
@@ -1679,6 +1685,7 @@ rule
 restate
 repeating
 retrace
+rap
 glance
 great
 good
@@ -1895,6 +1902,7 @@ Ujq
 Us
 Uu
 Ut
+Unknown
 Tom
 The
 This
@@ -1995,6 +2003,8 @@ Tbqk
 Tg
 TlP
 TXfW
+Tupac
+Tang
 Shelley
 Surprise
 Statement
@@ -2104,6 +2114,11 @@ Short
 Similar
 Studio
 Secret
+Slick
+Smoke
+Stickz
+Skribz
+Skepta
 Ruddock
 Relaxed
 Rowdy
@@ -2198,6 +2213,9 @@ Rl
 RBw
 Relative
 Reduced
+Rick
+Riggins
+Russ
 main
 meeting
 message
@@ -2657,6 +2675,7 @@ opposite
 often
 outdoors
 open
+old
 Man
 March
 Meanwhile
@@ -2754,6 +2773,12 @@ MJ
 MA
 MrX
 MP
+Mobb
+Mas
+Metro
+Mane
+Meekz
+Mllions
 Woman
 With
 We
@@ -3910,6 +3935,10 @@ DM
 Dyi
 DSR
 Definition
+Deep
+DOOM
+Drill
+Durk
 know
 km
 kilometres
@@ -4335,6 +4364,7 @@ detail
 degrees
 doing
 distance
+drum
 Oy
 Ox
 Overall
@@ -4534,6 +4564,7 @@ NA
 NVU
 Nsa
 NaR
+Notorious
 questions
 question
 quite
@@ -4730,6 +4761,7 @@ YA
 YfjM
 YWs
 YOh
+Young
 Confirm
 China
 Cleft
@@ -4846,6 +4878,11 @@ CB
 CRU
 CitK
 Concluding
+Clan
+Chief
+Chop
+Central
+Cee
 Library
 London
 Los
@@ -4927,6 +4964,7 @@ La
 LCd
 Longer
 Lab
+Lil
 Following
 February
 For
@@ -5040,6 +5078,7 @@ Fwl
 Formal
 Few
 FLEXY
+Future
 January
 June
 July
@@ -5142,6 +5181,7 @@ Jf
 JVq
 JJU
 JQ
+Jay
 But
 Bar
 By
@@ -5237,6 +5277,7 @@ BN
 BrHh
 BC
 Bambu
+Boomin
 Paris
 Pie
 Positive
@@ -5357,6 +5398,7 @@ Passive
 Prepositional
 Phrase
 PLAYFAIR
+Pop
 Kyoto
 Korea
 Kw
@@ -5443,6 +5485,10 @@ Kf
 KIs
 KZyuI
 Kj
+Knxwledge
+Karriem
+Keef
+King
 European
 Europe
 East
@@ -5630,6 +5676,7 @@ HUg
 Huc
 Hv
 HELLO
+Hill
 Vintage
 Vt
 VY
@@ -5717,6 +5764,7 @@ VfS
 Vr
 Vc
 Vocabulary
+Von
 Question
 Qualifying
 QH
@@ -5991,6 +6039,7 @@ Zsu
 ZF
 ZB
 ZCx
+Zaytoven
 za
 zE
 zh
