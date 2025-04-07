@@ -1525,6 +1525,7 @@ fdm
 facts
 final
 flies
+fraternities
 relationships
 ran
 realised
@@ -2005,6 +2006,7 @@ TlP
 TXfW
 Tupac
 Tang
+Thug
 Shelley
 Surprise
 Statement
@@ -2119,6 +2121,8 @@ Smoke
 Stickz
 Skribz
 Skepta
+Sammy
+Snoop
 Ruddock
 Relaxed
 Rowdy
@@ -2779,6 +2783,9 @@ Metro
 Mane
 Meekz
 Mllions
+Mac
+Miller
+Macklemore
 Woman
 With
 We
@@ -3159,6 +3166,8 @@ APsR
 AcD
 Active
 Adjectival
+Allen
+Adams
 unfortunate
 undestanding
 unrealistic
@@ -3939,6 +3948,9 @@ Deep
 DOOM
 Drill
 Durk
+Dembow
+Dre
+Dogg
 know
 km
 kilometres
@@ -4206,6 +4218,7 @@ IoX
 Informal
 Inn
 III
+Ice
 documentary
 do
 data
@@ -4762,6 +4775,7 @@ YfjM
 YWs
 YOh
 Young
+Yachty
 Confirm
 China
 Cleft
@@ -4883,6 +4897,7 @@ Chief
 Chop
 Central
 Cee
+Cube
 Library
 London
 Los
@@ -4965,6 +4980,7 @@ LCd
 Longer
 Lab
 Lil
+Linkin
 Following
 February
 For
@@ -5079,6 +5095,7 @@ Formal
 Few
 FLEXY
 Future
+Frat
 January
 June
 July
@@ -5278,6 +5295,8 @@ BrHh
 BC
 Bambu
 Boomin
+Beastie
+Boys
 Paris
 Pie
 Positive
@@ -5399,6 +5418,7 @@ Prepositional
 Phrase
 PLAYFAIR
 Pop
+Park
 Kyoto
 Korea
 Kw
@@ -5677,6 +5697,7 @@ Huc
 Hv
 HELLO
 Hill
+Hoodie
 Vintage
 Vt
 VY
