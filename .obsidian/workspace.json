@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Рэп/Стили рэпа.md",
+                "file": "История криптографии/Шифр Два квадрата.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Стили рэпа"
+              "title": "Шифр Два квадрата"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6ea8a6b3b7be1319",
@@ -189,8 +188,9 @@
   },
   "active": "f69f98b476f6ff69",
   "lastOpenFiles": [
-    "Рэп/Mumble.md",
+    "История криптографии/Шифры замены.md",
     "Рэп/Стили рэпа.md",
+    "Рэп/Mumble.md",
     "Рэп/Emo rap.md",
     "Рэп/G-Funk.md",
     "Рэп/Frat rap.md",
@@ -217,7 +217,6 @@
     "symbols.pdf",
     "МатАНАЛиз/Семинар 04.04.25.md",
     "Вставляемые материалы/Pasted image 20250404105038.png",
-    "МатАНАЛиз/Касательные и выпуклость.md",
     "Вставляемые материалы/Pasted image 20250404101911.png",
     "Вставляемые материалы/Pasted image 20250404101904.png",
     "Вставляемые материалы/Pasted image 20250401122732.png",
