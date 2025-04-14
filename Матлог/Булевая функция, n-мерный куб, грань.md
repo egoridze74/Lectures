@@ -50,4 +50,36 @@ $(1) \to (1)$
 	Определение:
 	Единичным n-мерным кубом в $\mathbb{R}^n$ называется подмножество $E_n \ \{ (\alpha_1, \dots, \alpha_n) \in \mathbb{R}^n \ | \ 0 \leq \alpha_i \leq 1 \ \forall i \}$
 	![[Pasted image 20250413174806.png]]
-	Рассмотрим $E_n$. Зафиксируем какие-либо 
+	Рассмотрим $E_n$. Зафиксируем какие-либо целые числа $1 \leq i_1 < i_2 < i_3 < \dots < i_k \leq n$, а также зафиксируем какие-либо k элементов из $\mathbb{Z}_2$. $\varepsilon_1, \dots, \varepsilon_k \in \mathbb{Z}_2$
+4) Задание булевой функции [[Формулы для задания булевых функций|формулами]]
+	Булевых функций имеется конечное число (= $2^{2^n}$). Имеются разные формулы, задающие одну и ту же булевую функцию. 
+	
+	Функции $F_1$ и $F_2$, задающие одну и ту же функцию (то есть, дающие одни и те же значения при совпадающих наборах значений переменных) называются **эквивалентными** (обозначаются $F_1 = F_2$)
+## Грань
+Обозначим: $F^n \begin{pmatrix}\varepsilon_1 & \varepsilon_2 & \dots & \varepsilon_k \\i_1 & i_2 & \dots & i_k\end{pmatrix}$ - это совокупность всех элементов из $E_n$, имеющих вид, где $i_j$ - позиция.
+
+На фиксированных позициях фиксируем значения $\begin{pmatrix} \dots & \varepsilon_1 & \dots & \varepsilon_2 & \dots & \varepsilon_k & \dots \\ \dots & i_1 & \dots & i_2 & \dots & i_k & \dots \end{pmatrix}$, где вместо троеточий стоит что угодно
+
+Такое $F^n \begin{pmatrix}\varepsilon_1 & \varepsilon_2 & \dots & \varepsilon_k \\i_1 & i_2 & \dots & i_k\end{pmatrix}$ называется (n-k)-мерной гранью куба $E_n$.
+
+Пример: n = 3
+![[Pasted image 20250413182841.png]]
+
+При k = n получим вершину $(\varepsilon_1, \dots, \varepsilon_k)$
+
+## n-мерный куб (сами вершины)
+Обозначим $B_n = E_n \cap (\mathbb{Z}_2)^n = \mathbb{Z}_2^n$ (из вершин)
+
+Тогда $B_n$ называется **n-мерным кубом**
+
+Грань куба $B_n$ - $F^n \begin{pmatrix}\varepsilon_1 & \varepsilon_2 & \dots & \varepsilon_k \\i_1 & i_2 & \dots & i_k\end{pmatrix} \cap \mathbb{Z}_2^n = F^n \begin{pmatrix}\varepsilon_1 & \varepsilon_2 & \dots & \varepsilon_k \\i_1 & i_2 & \dots & i_k\end{pmatrix} f(x_1, \dots, x_n)$ - булевая функция
+
+## Носитель булевой функции
+Носителем булевой функции f называется совокупность всех вершин куба $B_n$, на которых f принимает значение 1.
+
+Обозначается: $supp(f) - support$
+
+Пример: $n = 3, \ f(x_1, x_2, x_3)$
+$f(\varepsilon_1, \varepsilon_2, \varepsilon_3) = 0$ только при $(\varepsilon_1, \varepsilon_2, \varepsilon_3) = (0, 0, 0)$
+Совокупность вершин, кроме нулевой - **носитель**
+![[Pasted image 20250413184823.png]]
