@@ -5976,6 +5976,7 @@ Xch
 XsL
 XVI
 XIX
+XOR
 ZO
 ZS
 ZY
