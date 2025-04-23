@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Семинар 22.04.25"
             }
+          },
+          {
+            "id": "007889401cf578b3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
       "obsidian-matrix:Obsidian Matrix": false
     }
   },
-  "active": "073a01e1219f1fd4",
+  "active": "007889401cf578b3",
   "lastOpenFiles": [
     "Тервер/Летучка.md",
     "Тервер/Семинар 22.04.25.md",
