@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгебра Анашкин/Векторное пространство.md",
+                "file": "Алгебра Анашкин/Векторное пространство ДОПИСАТЬ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Векторное пространство"
+              "title": "Векторное пространство ДОПИСАТЬ"
             }
           }
         ]
@@ -182,7 +182,9 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-matrix:Obsidian Matrix": false,
+      "obsidian-map-view:Open map view": false
     }
   },
   "active": "539e74fb45c69b58",

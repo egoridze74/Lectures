@@ -1,7 +1,9 @@
 [
   "table-editor-obsidian",
   "better-export-pdf",
-  "obsidian-completr",
-  "dataview",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-matrix",
+  "obsidian-map-view",
+  "obsidian-enhancing-export",
+  "obsidian-completr"
 ]
