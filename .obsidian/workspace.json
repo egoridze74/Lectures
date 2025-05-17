@@ -13,41 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Матлог/Семинар 17.05.25.md",
+                "file": "Матлог/Семинар 26.04.25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Семинар 17.05.25"
+              "title": "Семинар 26.04.25"
             }
           },
           {
-            "id": "ea4b986fd19ed305",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "symbols.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "symbols"
-            }
-          },
-          {
-            "id": "222d78af4212cc3b",
+            "id": "e615cea5dd7c773e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Матлог/Исчисление высказываний.md",
+                "file": "Матлог/Как искать тупиковые ДНФ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Исчисление высказываний"
+              "title": "Как искать тупиковые ДНФ"
+            }
+          },
+          {
+            "id": "9d800531106383bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Матлог/Полином Жегалкина.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Полином Жегалкина"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "внедрение",
+                "query": "тупиковая",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,11 +216,14 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "539e74fb45c69b58",
+  "active": "9d800531106383bb",
   "lastOpenFiles": [
+    "Матлог/Семинар 26.04.25.md",
+    "Матлог/Как искать тупиковые ДНФ.md",
+    "Матлог/Семинар 19.04.25.md",
+    "Матлог/Семинар 17.05.25.md",
     "Матлог/Исчисление высказываний.md",
     "Матлог/Классы формул. Функциональная замкнутость.md",
-    "Матлог/Семинар 17.05.25.md",
     "symbols.pdf",
     "Матлог/Способы нахождения СДНФ.md",
     "Алгебра Анашкин/Векторное пространство ДОПИСАТЬ.md",
@@ -240,9 +246,6 @@
     "Тервер/Виды сходимости. Утверждения про виды сходимости.md",
     "Тервер/Семинар 21.01.25.md",
     "ты.md",
-    "Тервер/Метод моментов.md",
-    "Тервер/Мат ожидания функции случайной величины. Моменты случайной величины. Дисперсия.md",
-    "Тервер/Теорема Пуассона.md",
     "Вставляемые материалы/Pasted image 20250504104538.png",
     "Вставляемые материалы/Pasted image 20250504103949.png",
     "Вставляемые материалы/Pasted image 20250504103944.png",
