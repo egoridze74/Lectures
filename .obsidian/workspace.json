@@ -4,53 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "384594b79894d040",
+        "id": "5287de5aeae4a406",
         "type": "tabs",
         "children": [
           {
-            "id": "539e74fb45c69b58",
+            "id": "acddb8efce10efcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Матлог/Семинар 26.04.25.md",
+                "file": "Английский/Essay types and scenarios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Семинар 26.04.25"
+              "title": "Essay types and scenarios"
             }
           },
           {
-            "id": "e615cea5dd7c773e",
+            "id": "927d26055d76b5f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Матлог/Как искать тупиковые ДНФ.md",
+                "file": "Английский/Essay planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Как искать тупиковые ДНФ"
+              "title": "Essay planning"
             }
           },
           {
-            "id": "9cdc03a4b7c21b8e",
+            "id": "8d746f1f7226c766",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Матлог/Информация по матлогу.md",
+                "file": "Английский/Paragraph planning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Информация по матлогу"
+              "title": "Paragraph planning"
+            }
+          },
+          {
+            "id": "c62d2f342e729e02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Английский/Describing graphs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Describing graphs"
+            }
+          },
+          {
+            "id": "72d1b81520345e16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Английский/Examples of describing visual information.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Examples of describing visual information"
+            }
+          },
+          {
+            "id": "648ef7e6757a20c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Английский/Resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Resources"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "тупиковая",
+                "query": "tag:#для_экзов",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,8 +258,23 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "9cdc03a4b7c21b8e",
+  "active": "c62d2f342e729e02",
   "lastOpenFiles": [
+    "Английский/Examples of describing visual information.md",
+    "Английский/Describing graphs.md",
+    "Английский/Essay types and scenarios.md",
+    "Английский/Resources.md",
+    "Английский/Synonims for advantages and disadvantages.md",
+    "Английский/Essay planning.md",
+    "Английский/Paragraph planning.md",
+    "Английский/12.10, 18.10.md",
+    "Английский/Fashion and consumerism - Glossary.md",
+    "Английский/Future in the past.md",
+    "Английский/Migration.md",
+    "Английский/Passive voice.md",
+    "Английский/People and ideas - Glossary.md",
+    "Английский/Question Forms.md",
+    "Матлог/Информация по матлогу.md",
     "Матлог/Полином Жегалкина.md",
     "Матлог/Семинар 26.04.25.md",
     "Матлог/Как искать тупиковые ДНФ.md",
@@ -230,22 +287,7 @@
     "Алгебра Анашкин/Векторное пространство ДОПИСАТЬ.md",
     "Алгебра Анашкин/Поле корней уравнения (онлайн-контент).md",
     "МатАНАЛиз/Криволинейные интегралы первого рода.md",
-    "МатАНАЛиз/Бета-функция Эйлера.md",
-    "МатАНАЛиз/Семинар 16.05.25.md",
-    "Ассемблер/Информация по ассемблеру.md",
-    "МатАНАЛиз/Гамма-функция Эйлера.md",
-    "МатАНАЛиз/Гладкая кривая.md",
     "Вставляемые материалы/Pasted image 20250516094543.png",
-    "МатАНАЛиз/Семинар 25.04.25.md",
-    "МатАНАЛиз/Разложение в ряд Тейлора основных элементарных функций.md",
-    "МатАНАЛиз/Формулы Гамма-Бэта-функций.md",
-    "История криптографии/Тест Касиски.md",
-    "Тервер/Летучка.md",
-    "Тервер/Вероятностная мера на R. Функция распределения вероятности.md",
-    "Тервер/Семинар 26.04.25.md",
-    "Тервер/Производящие функции.md",
-    "Тервер/Виды сходимости. Утверждения про виды сходимости.md",
-    "Тервер/Семинар 21.01.25.md",
     "Вставляемые материалы/Pasted image 20250504104538.png",
     "Вставляемые материалы/Pasted image 20250504103949.png",
     "Вставляемые материалы/Pasted image 20250504103944.png",
