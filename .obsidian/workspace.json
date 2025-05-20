@@ -8,20 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f1cf1247acb7666",
+            "id": "f8f575c13a9151ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Алгебра Анашкин/Вернулись к конечным полям ДОПИСАТЬ.md",
+                "file": "Английский/Essay types and scenarios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вернулись к конечным полям ДОПИСАТЬ"
+              "title": "Essay types and scenarios"
+            }
+          },
+          {
+            "id": "71dec0f66a80f649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Английский/Paragraph planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Paragraph planning"
+            }
+          },
+          {
+            "id": "869cde0f878be6ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Английский/Essay planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Essay planning"
+            }
+          },
+          {
+            "id": "e7785be3ed8617ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Английский/Synonims for advantages and disadvantages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Synonims for advantages and disadvantages"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "делители нуля",
+                "query": "tag:#для_экзов",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,12 +230,20 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "8f1cf1247acb7666",
+  "active": "869cde0f878be6ed",
   "lastOpenFiles": [
+    "Английский/Synonims for advantages and disadvantages.md",
+    "Английский/Essay planning.md",
+    "Английский/Complex Noun Phrases.md",
+    "Английский/Writing an Essay.md",
+    "Английский/Paragraph planning.md",
+    "Английский/Essay types and scenarios.md",
+    "Английский/Resources.md",
+    "Английский/Examples of describing visual information.md",
+    "Алгебра Анашкин/Векторное пространство ДОПИСАТЬ.md",
+    "Алгебра Анашкин/Вернулись к конечным полям.md",
     "Алгебра Анашкин/Характеристика кольца.md",
     "Алгебра Анашкин/Экспонента группы.md",
-    "Алгебра Анашкин/Вернулись к конечным полям ДОПИСАТЬ.md",
-    "Алгебра Анашкин/Векторное пространство ДОПИСАТЬ.md",
     "Вставляемые материалы/Pasted image 20250520141722.png",
     "Вставляемые материалы/Pasted image 20250520141718.png",
     "Вставляемые материалы/Pasted image 20250520140116.png",
@@ -200,13 +251,7 @@
     "Алгебра Анашкин/ыашпоуашщущ.md",
     "Алгебра Анашкин/Семинар 20.05.25.md",
     "Алгебра Анашкин/Кольцо. Виды колец. Анашкин.md",
-    "Английский/Essay planning.md",
-    "Английский/Paragraph planning.md",
-    "Английский/Essay types and scenarios.md",
-    "Английский/Examples of describing visual information.md",
     "Английский/Describing graphs.md",
-    "Английский/Resources.md",
-    "Английский/Synonims for advantages and disadvantages.md",
     "Английский/12.10, 18.10.md",
     "Английский/Fashion and consumerism - Glossary.md",
     "Английский/Future in the past.md",
@@ -217,8 +262,6 @@
     "Матлог/Информация по матлогу.md",
     "Матлог/Полином Жегалкина.md",
     "Матлог/Семинар 26.04.25.md",
-    "Матлог/Как искать тупиковые ДНФ.md",
-    "Матлог/Семинар 19.04.25.md",
     "symbols.pdf",
     "Вставляемые материалы/Pasted image 20250516094543.png",
     "Вставляемые материалы/Pasted image 20250504104538.png",

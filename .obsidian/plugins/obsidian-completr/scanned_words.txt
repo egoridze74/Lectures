@@ -514,6 +514,9 @@ awful
 authorities
 activities
 accounts
+approach
+author
+actor
 sad
 seems
 short
@@ -846,6 +849,10 @@ sportswear
 satisfy
 sum
 summary
+scandal
+snow
+shoes
+still
 is
 in
 into
@@ -998,6 +1005,7 @@ images
 impression
 intentionally
 immigrants
+ice
 the
 time
 to
@@ -1381,6 +1389,8 @@ began
 beliefs
 begin
 build
+based
+butter
 watch
 which
 written
@@ -1518,6 +1528,7 @@ workplace
 working
 widely
 whim
+wavy
 heartwarming
 have
 however
@@ -1655,6 +1666,8 @@ holiday
 happening
 himself
 held
+hair
+hour
 film
 first
 faults
@@ -1825,6 +1838,7 @@ factory
 failing
 furthermore
 fractions
+fears
 relationships
 ran
 realised
@@ -2163,6 +2177,7 @@ gross
 generated
 give
 gain
+guy
 Unspoken
 Usage
 Unclear
@@ -2771,6 +2786,10 @@ moved
 misleading
 mental
 maximize
+mile
+mark
+mail
+modifier
 characters
 cute
 come
@@ -3041,6 +3060,9 @@ cost
 collapse
 children
 conclude
+cream
+corner
+charge
 of
 once
 other
@@ -3271,6 +3293,7 @@ Miller
 Macklemore
 Modern
 Many
+Meet
 Woman
 With
 We
@@ -4062,6 +4085,10 @@ parents
 pace
 park
 percent
+pre
+peanut
+publicised
+pictures
 lovely
 loaded
 library
@@ -4353,6 +4380,7 @@ violence
 violation
 vehicles
 vital
+voicemail
 you
 year
 yearly
@@ -4649,6 +4677,8 @@ kzx
 kRJ
 keep
 kick
+king
+key
 job
 just
 joined
@@ -4736,6 +4766,7 @@ jYS
 json
 jazzmen
 jeans
+journey
 It
 In
 Interestingly
@@ -5032,6 +5063,8 @@ divergent
 dreadful
 discovered
 develop
+department
+door
 Oy
 Ox
 Overall
@@ -5563,6 +5596,7 @@ Coventry
 Christmas
 City
 Crew
+Complex
 Library
 London
 Los
@@ -5649,6 +5683,8 @@ Linkin
 Little
 Louis
 Landowners
+Lexington
+Leonardo
 Following
 February
 For
@@ -5875,6 +5911,7 @@ Jony
 John
 Jack
 Jill
+Jane
 But
 Bar
 By
@@ -6103,6 +6140,8 @@ Profits
 Please
 People
 Percentage
+Pre
+Post
 Kyoto
 Korea
 Kw
