@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "5d9e6cb80e923a9d",
+    "id": "80390e071d7d69c0",
     "type": "split",
     "children": [
       {
-        "id": "13aeaaea6f2fb59e",
+        "id": "26183f83fe4be649",
         "type": "tabs",
         "children": [
           {
-            "id": "337d61a8d90eae0e",
+            "id": "06004a53ec9a4871",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Матлог/Исчисление высказываний (ИВ) и вопросы века.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Исчисление высказываний (ИВ) и вопросы века"
+              "title": "New tab"
             }
           }
         ]
@@ -27,20 +23,20 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "89740c0c2769f53a",
+    "id": "e7a3e957a533e529",
     "type": "split",
     "children": [
       {
-        "id": "a82d5331d5caac56",
+        "id": "99544d25ce2a0883",
         "type": "tabs",
         "children": [
           {
-            "id": "0d8ab88a8c8fa13d",
+            "id": "5f9d1c2e6c24410c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -48,24 +44,24 @@
             }
           },
           {
-            "id": "f93640dd40c825cc",
+            "id": "3f4033ce35b33e26",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "сумма",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Search"
             }
           },
           {
-            "id": "406b9ed4e089b436",
+            "id": "a396ce76f08a67ea",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,100 +74,81 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "6ea8a6b3b7be1319",
+    "id": "374628f01d1c0db2",
     "type": "split",
     "children": [
       {
-        "id": "02cf9901d93eeedb",
+        "id": "20fe29af672a465c",
         "type": "tabs",
         "children": [
           {
-            "id": "5eb6500625c6afcf",
+            "id": "612532a79e9a23f3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тервер/Мера Лебега.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Мера Лебега"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "900cb7dad1d783a5",
+            "id": "857af3692599fd88",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Английский/12.10, 18.10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 12.10, 18.10"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "305d9d3cfc937d90",
+            "id": "b578cf4d05f51f5d",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "4cbeb535901e29e7",
+            "id": "9fa669f1cba889b4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Английский/12.10, 18.10.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 12.10, 18.10"
-            }
-          },
-          {
-            "id": "0ad6ef8f16a25da4",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "0abcc45c8a999c1b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -187,55 +164,6 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "337d61a8d90eae0e",
-  "lastOpenFiles": [
-    "Вставляемые материалы/Pasted image 20250524221940.png",
-    "Вставляемые материалы/Pasted image 20250524221455.png",
-    "Вставляемые материалы/Pasted image 20250524221223.png",
-    "Вставляемые материалы/Pasted image 20250524220750.png",
-    "Вставляемые материалы/Pasted image 20250524220350.png",
-    "Вставляемые материалы/Pasted image 20250524220340.png",
-    "Вставляемые материалы/Pasted image 20250524215851.png",
-    "Вставляемые материалы/Pasted image 20250524215516.png",
-    "Вставляемые материалы/Pasted image 20250524215445.png",
-    "Матлог/Явная нумерация всех команд и программ.md",
-    "Матлог/Исчисление высказываний (ИВ) и вопросы века.md",
-    "Вставляемые материалы/Pasted image 20250524215029.png",
-    "Вставляемые материалы/Pasted image 20250524214934.png",
-    "Матлог/Untitled.md",
-    "Матлог/nfvuidf.md",
-    "Алгебра Анашкин/Прямое произведение подгрупп.md",
-    "Алгебра Анашкин/Разложимое кольцо.md",
-    "Алгебра Анашкин/Про разложимые элементы ДОПИСАТЬ.md",
-    "Алгебра Анашкин/Разложимые и неразложимые группы. Тип группы.md",
-    "Линейная алгебра/Теорема о сумме подпространства и ортогонального ему.md",
-    "Линейная алгебра/Ортогональная проекция, подпространство.md",
-    "Алгебра Анашкин/Про поля разложения ДОПИСАТЬ.md",
-    "Алгебра Анашкин/Обратимая матрица ДОПИСАТЬ.md",
-    "Алгебра Анашкин/Векторное пространство ДОПИСАТЬ.md",
-    "Алгебра Анашкин/Вернулись к конечным полям.md",
-    "Алгебра Анашкин/Поле корней уравнения (онлайн-контент).md",
-    "Тервер/Семинар 26.04.25.md",
-    "Тервер/Семинар 24.05.25.md",
-    "Тервер/Летучка.md",
-    "Тервер/Закон больших чисел (членов).md",
-    "Тервер/Теоретико-вероятностные неравенства.md",
-    "Тервер/Разбиение. Формула полной вероятности.md",
-    "Тервер/Формулы для кр.md",
-    "Ассемблер/Информация по ассемблеру.md",
-    "Тервер/Характеристические функции.md",
-    "МатАНАЛиз/Семинар 23.05.25 ДОПИСАТЬ.md",
-    "symbols.pdf",
-    "Рэп",
-    "Untitled.canvas",
-    "Алгебра",
-    "Вставляемые материалы/Ink/Drawing/2025.2.25 - 16.42pm.drawing",
-    "Вставляемые материалы/Ink/Drawing/2025.2.25 - 16.22pm.drawing",
-    "Вставляемые материалы/Ink/Drawing/2025.2.22 - 16.30pm.drawing",
-    "Вставляемые материалы/Ink/Drawing/2025.2.8 - 15.05pm.drawing",
-    "Вставляемые материалы/Ink/Drawing/2025.2.8 - 14.46pm.drawing",
-    "Вставляемые материалы/Ink/Drawing/2025.2.3 - 19.32pm.drawing",
-    "Вставляемые материалы/Ink/Drawing/2025.2.3 - 10.18am.drawing",
-    "Untitled 1.canvas"
-  ]
+  "active": "06004a53ec9a4871",
+  "lastOpenFiles": []
 }
