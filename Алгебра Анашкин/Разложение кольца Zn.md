@@ -17,3 +17,13 @@ $ord(g_i) = \frac{n}{(n, \frac{n}{p_i^{\alpha_i}}) = p_{i}^{\alpha_i}}$
 
 Тогда любой элемент может быть записан как сумма элементов из этих колец:
 $b_1 (u_1 s) + b_2 (u_2 s) + \dots + b_r (u_r s) = s, \ s \in \mathbb{Z}_n$
+
+## КТО
+$\mathbb{Z}_n = b_1 \mathbb{Z}_n \dot{+} b_2 \mathbb{Z}_n \dot{+} \dots \dot{+} b_n \mathbb{Z}_n$
+
+$a_i \mathbb{Z}_n \cong \mathbb{Z}_{p_i^{\alpha_i}}$
+$\mathbb{Z}_n \cong \mathbb{Z}_{p_1^{\alpha_1}} \oplus \mathbb{Z}_{p_2^{\alpha_2}} \oplus \dots \oplus \mathbb{Z}_{p_k^{\alpha_k}}$
+$\mathbb{Z}_n^* \cong \mathbb{Z}_{p_1^{\alpha_1}}^* \oplus \mathbb{Z}_{p_2^{\alpha_2}}^* \oplus \dots \oplus \mathbb{Z}_{p_k^{\alpha_k}}^*$
+$p_1 < p_2 < \dots < p_k$
+- $p_1 \neq 2, \ \mathbb{Z}_n^*$ - циклическая $\iff$ $k = 1$
+- $p_1 = 2, \ \mathbb{Z}_n^*$ - циклическая $\iff$ $k \leq 2 (\begin{cases} k = 1 \ \alpha_1 = 1, 2 \\ k = 2 \ \alpha_1 = 1 \end{cases})$
