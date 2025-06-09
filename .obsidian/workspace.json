@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Криволинейные интегралы 2-го рода"
             }
+          },
+          {
+            "id": "316ddf19a7e01b16",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,8 +182,9 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "1543eb97d08c9a8c",
+  "active": "316ddf19a7e01b16",
   "lastOpenFiles": [
+    "МатАНАЛиз/Криволинейные интегралы 2-го рода.md",
     "МатАНАЛиз/Семинар 23.05.25.md",
     "МатАНАЛиз/Семинар 30.05.25.md",
     "Матлог/Теоремы про счётные множества.md",
@@ -208,7 +220,6 @@
     "Вставляемые материалы/Pasted image 20250606101816.png",
     "Алгебра Анашкин/Кольцо. Виды колец. Анашкин.md",
     "Вставляемые материалы/Pasted image 20250606101356.png",
-    "ТЧ/Схема Диффи-Хеллмана.md",
     "symbols.pdf"
   ]
 }
