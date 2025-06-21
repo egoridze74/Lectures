@@ -191,6 +191,7 @@ equality
 ensure
 efforts
 expand
+endl
 Gray
 Graph
 Generally
@@ -519,6 +520,7 @@ author
 actor
 alexander
 anashkin
+arr
 sad
 seems
 short
@@ -1008,6 +1010,7 @@ impression
 intentionally
 immigrants
 ice
+int
 the
 time
 to
@@ -2504,6 +2507,7 @@ Salaries
 Stowe
 Suffixes
 Supermarket
+ShowArray
 Ruddock
 Relaxed
 Rowdy
@@ -3065,6 +3069,7 @@ conclude
 cream
 corner
 charge
+cout
 of
 once
 other
@@ -3572,6 +3577,7 @@ negatively
 nervosa
 neglected
 nutshell
+newArray
 After
 As
 Angeles
@@ -4092,6 +4098,8 @@ pre
 peanut
 publicised
 pictures
+push
+pop
 lovely
 loaded
 library
@@ -4384,6 +4392,7 @@ violation
 vehicles
 vital
 voicemail
+void
 you
 year
 yearly
@@ -4590,6 +4599,7 @@ Dembow
 Dre
 Dogg
 DiCaprio
+Delete
 know
 km
 kilometres
@@ -5068,6 +5078,7 @@ discovered
 develop
 department
 door
+delete
 Oy
 Ox
 Overall
@@ -5808,6 +5819,7 @@ Fadell
 Forstall
 Filling
 Ford
+FillArray
 January
 June
 July
