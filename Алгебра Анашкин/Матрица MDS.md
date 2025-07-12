@@ -11,6 +11,3 @@ $|A(k; i_1, i_2, \dots, i_k, j_1, \dots, j_k)| \neq 0$
 2. $P = \mathbb{Z}_2, \ n = 2(\geq 2)$
 	MDS матриц не существует
 	$|\begin{pmatrix}1 & 1 \\1 & 1\end{pmatrix}| = 0$
-
-## ДЗ
-надо попросить у кого-то
