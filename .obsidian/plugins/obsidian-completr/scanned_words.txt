@@ -196,6 +196,9 @@ encryption
 encoding
 exam
 engineered
+exe
+exec
+execl
 Gray
 Graph
 Generally
@@ -529,6 +532,7 @@ arr
 asymmetric
 attacks
 assessment
+aistratov
 sad
 seems
 short
@@ -1550,6 +1554,7 @@ widely
 whim
 wavy
 weed
+write
 heartwarming
 have
 however
@@ -4145,6 +4150,7 @@ pop
 pseudorandom
 participation
 ppts
+printf
 lovely
 loaded
 library
@@ -4739,6 +4745,7 @@ keep
 kick
 king
 key
+kill
 job
 just
 joined
@@ -5331,6 +5338,7 @@ NVU
 Nsa
 NaR
 Notorious
+Nikita
 questions
 question
 quite
@@ -6214,6 +6222,7 @@ Percentage
 Pre
 Post
 Programming
+Prepod
 Kyoto
 Korea
 Kw
@@ -6304,6 +6313,7 @@ Knxwledge
 Karriem
 Keef
 King
+Kill
 European
 Europe
 East
@@ -6415,6 +6425,7 @@ Emissions
 Exclusive
 Extra
 Education
+Exit
 Housing
 Harsh
 How
