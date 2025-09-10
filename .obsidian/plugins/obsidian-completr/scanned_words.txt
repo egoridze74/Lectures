@@ -533,6 +533,7 @@ asymmetric
 attacks
 assessment
 aistratov
+art
 sad
 seems
 short
@@ -1231,6 +1232,7 @@ tested
 themselves
 toy
 tests
+tamber
 best
 by
 be
@@ -1695,6 +1697,7 @@ held
 hair
 hour
 hash
+holistic
 film
 first
 faults
@@ -3110,6 +3113,8 @@ cout
 cybersecurity
 class
 cover
+ciphertext
+cipher
 of
 once
 other
@@ -4151,6 +4156,7 @@ pseudorandom
 participation
 ppts
 printf
+plaintext
 lovely
 loaded
 library
