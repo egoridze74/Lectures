@@ -875,6 +875,7 @@ symmetric
 signatures
 storage
 security
+serendipity
 is
 in
 into
@@ -1030,6 +1031,8 @@ immigrants
 ice
 int
 ins
+implication
+impervious
 the
 time
 to
@@ -1873,6 +1876,7 @@ fractions
 fears
 functions
 freshman
+fortify
 relationships
 ran
 realised
@@ -2838,6 +2842,7 @@ module
 mathematics
 max
 modules
+malicious
 characters
 cute
 come
@@ -3242,6 +3247,7 @@ ocean
 opinions
 orally
 outs
+obsolete
 Man
 March
 Meanwhile
@@ -3632,6 +3638,7 @@ nutshell
 newArray
 neural
 networks
+nefarious
 After
 As
 Angeles
@@ -4161,6 +4168,7 @@ ppts
 printf
 plaintext
 plaint
+plethora
 lovely
 loaded
 library
@@ -4456,6 +4464,8 @@ vehicles
 vital
 voicemail
 void
+variable
+volatility
 you
 year
 yearly
@@ -5145,6 +5155,7 @@ department
 door
 delete
 digital
+doable
 Oy
 Ox
 Overall
