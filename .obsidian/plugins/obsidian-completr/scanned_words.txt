@@ -201,6 +201,7 @@ exec
 execl
 eng
 exit
+execution
 Gray
 Graph
 Generally
@@ -877,6 +878,7 @@ signatures
 storage
 security
 serendipity
+scanf
 is
 in
 into
@@ -1238,6 +1240,7 @@ themselves
 toy
 tests
 tamber
+txt
 best
 by
 be
@@ -1880,6 +1883,8 @@ fears
 functions
 freshman
 fortify
+flag
+fcntl
 relationships
 ran
 realised
@@ -2080,6 +2085,8 @@ relates
 reverse
 rigorous
 rudimentary
+rwx
+rwad
 glance
 great
 good
@@ -2313,6 +2320,7 @@ Uu
 Ut
 Unknown
 Until
+User
 Tom
 The
 This
@@ -2657,6 +2665,8 @@ Riccardo
 Real
 Rap
 Ready
+RDONLY
+RDWR
 main
 meeting
 message
@@ -2848,6 +2858,7 @@ mathematics
 max
 modules
 malicious
+mode
 characters
 cute
 come
@@ -3129,6 +3140,7 @@ ciphertext
 cipher
 cip
 ctrl
+creat
 of
 once
 other
@@ -3462,6 +3474,7 @@ WpZ
 Wxuu
 WY
 Writing
+WDONLY
 neighbours
 notes
 noticeable
@@ -3899,6 +3912,7 @@ until
 unacceptable
 unreasonable
 upon
+user
 paper
 plot
 perception
@@ -5162,6 +5176,7 @@ door
 delete
 digital
 doable
+define
 Oy
 Ox
 Overall
@@ -5699,6 +5714,7 @@ Crew
 Complex
 Cloud
 Career
+CREAT
 Library
 London
 Los
