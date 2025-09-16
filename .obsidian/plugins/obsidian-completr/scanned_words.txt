@@ -200,6 +200,7 @@ exe
 exec
 execl
 eng
+exit
 Gray
 Graph
 Generally
@@ -1561,6 +1562,8 @@ whim
 wavy
 weed
 write
+wait
+waitpid
 heartwarming
 have
 however
@@ -2550,6 +2553,8 @@ Systems
 Software
 Standards
 Science
+SIGINT
+SIGTSTP
 Ruddock
 Relaxed
 Rowdy
@@ -3123,6 +3128,7 @@ cover
 ciphertext
 cipher
 cip
+ctrl
 of
 once
 other
