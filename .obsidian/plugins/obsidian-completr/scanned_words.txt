@@ -880,6 +880,7 @@ storage
 security
 serendipity
 scanf
+sleep
 is
 in
 into
@@ -4195,6 +4196,9 @@ plaintext
 plaint
 plethora
 password
+pause
+puts
+perror
 lovely
 loaded
 library
