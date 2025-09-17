@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "72996892633eebec",
+        "id": "1c35d885800505df",
         "type": "tabs",
         "children": [
           {
-            "id": "04ddb103ea5e0188",
+            "id": "b8be9dfaa7aae61c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ОСИ/Поток (thread).md",
+                "file": "Английский специальный/Cловарик.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Поток (thread)"
+              "title": "Cловарик"
             }
           }
         ]
@@ -172,12 +172,12 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "04ddb103ea5e0188",
+  "active": "b8be9dfaa7aae61c",
   "lastOpenFiles": [
+    "ОСИ/Поток (thread).md",
     "ОСИ/Управление процессом.md",
     "Вставляемые материалы/Pasted image 20250916221252.png",
     "ОСИ/Введение в Операционные системы.md",
-    "ОСИ/Поток (thread).md",
     "ОСИ/Семинар по системным вызовам управления процессами ДОПИСАТЬ.md",
     "Вставляемые материалы/Pasted image 20250916151715.png",
     "ОСИ/Информация по ОСям.md",
