@@ -881,6 +881,7 @@ security
 serendipity
 scanf
 sleep
+salt
 is
 in
 into
@@ -1038,6 +1039,9 @@ int
 ins
 implication
 impervious
+irreversible
+infeasible
+integrity
 the
 time
 to
@@ -1245,6 +1249,7 @@ tamber
 txt
 thread
 tampered
+tables
 best
 by
 be
@@ -2092,6 +2097,8 @@ rigorous
 rudimentary
 rwx
 rwad
+resistance
+rainbow
 glance
 great
 good
@@ -2236,6 +2243,7 @@ give
 gain
 guy
 generators
+genuine
 Unspoken
 Usage
 Unclear
@@ -3147,6 +3155,8 @@ cip
 ctrl
 creat
 corrupt
+collision
+computationally
 of
 once
 other
@@ -3919,6 +3929,7 @@ unacceptable
 unreasonable
 upon
 user
+utilize
 paper
 plot
 perception
@@ -5187,6 +5198,7 @@ delete
 digital
 doable
 define
+digest
 Oy
 Ox
 Overall
