@@ -202,6 +202,7 @@ execl
 eng
 exit
 execution
+err
 Gray
 Graph
 Generally
@@ -882,6 +883,9 @@ serendipity
 scanf
 sleep
 salt
+stdout
+socket
+symlink
 is
 in
 into
@@ -1434,6 +1438,7 @@ build
 based
 butter
 blockchain
+buf
 watch
 which
 written
@@ -4375,6 +4380,7 @@ laws
 local
 languages
 letter
+link
 very
 viewer
 vocabulary
@@ -5199,6 +5205,8 @@ digital
 doable
 define
 digest
+dup
+duplicate
 Oy
 Ox
 Overall
