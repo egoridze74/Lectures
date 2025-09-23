@@ -886,6 +886,7 @@ salt
 stdout
 socket
 symlink
+section
 is
 in
 into
@@ -2581,6 +2582,7 @@ Standards
 Science
 SIGINT
 SIGTSTP
+Semaphore
 Ruddock
 Relaxed
 Rowdy
@@ -3162,6 +3164,7 @@ creat
 corrupt
 collision
 computationally
+critical
 of
 once
 other
@@ -3399,6 +3402,7 @@ Meet
 MDS
 Mathematics
 Machine
+Mutex
 Woman
 With
 We
@@ -6297,6 +6301,8 @@ Pre
 Post
 Programming
 Prepod
+PID
+PRI
 Kyoto
 Korea
 Kw
