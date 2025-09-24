@@ -2453,6 +2453,7 @@ Truly
 Tisci
 Titanic
 Thousands
+Timer
 Shelley
 Surprise
 Statement
@@ -2879,6 +2880,8 @@ max
 modules
 malicious
 mode
+mkfifo
+mknode
 characters
 cute
 come
@@ -3290,6 +3293,7 @@ opinions
 orally
 outs
 obsolete
+opendir
 Man
 March
 Meanwhile
@@ -4219,6 +4223,7 @@ password
 pause
 puts
 perror
+pipe
 lovely
 loaded
 library
@@ -5959,6 +5964,7 @@ Forstall
 Filling
 Ford
 FillArray
+Fiber
 January
 June
 July
@@ -6506,6 +6512,7 @@ Exclusive
 Extra
 Education
 Exit
+Event
 Housing
 Harsh
 How
