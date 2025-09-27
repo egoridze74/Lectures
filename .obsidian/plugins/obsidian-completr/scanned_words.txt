@@ -203,6 +203,7 @@ eng
 exit
 execution
 err
+empower
 Gray
 Graph
 Generally
@@ -887,6 +888,7 @@ stdout
 socket
 symlink
 section
+shed
 is
 in
 into
@@ -1047,6 +1049,7 @@ impervious
 irreversible
 infeasible
 integrity
+immutable
 the
 time
 to
@@ -1255,6 +1258,7 @@ txt
 thread
 tampered
 tables
+tamper
 best
 by
 be
@@ -1901,6 +1905,7 @@ fortify
 flag
 fcntl
 fiber
+forgery
 relationships
 ran
 realised
@@ -3168,6 +3173,9 @@ corrupt
 collision
 computationally
 critical
+cast
+counter
+counterfeit
 of
 once
 other
@@ -3294,6 +3302,7 @@ orally
 outs
 obsolete
 opendir
+obscure
 Man
 March
 Meanwhile
@@ -4224,6 +4233,7 @@ pause
 puts
 perror
 pipe
+proprietary
 lovely
 loaded
 library
@@ -4390,6 +4400,7 @@ local
 languages
 letter
 link
+lwgislation
 very
 viewer
 vocabulary
@@ -5216,6 +5227,7 @@ define
 digest
 dup
 duplicate
+distributed
 Oy
 Ox
 Overall
