@@ -6704,6 +6704,7 @@ Vc
 Vocabulary
 Von
 Vulnerable
+VII
 Question
 Qualifying
 QH
@@ -6894,6 +6895,8 @@ XsL
 XVI
 XIX
 XOR
+XII
+XVII
 ZO
 ZS
 ZY
