@@ -2345,6 +2345,7 @@ Ut
 Unknown
 Until
 User
+Used
 Tom
 The
 This
@@ -2589,6 +2590,7 @@ Science
 SIGINT
 SIGTSTP
 Semaphore
+Swapping
 Ruddock
 Relaxed
 Rowdy
@@ -2693,6 +2695,7 @@ Rap
 Ready
 RDONLY
 RDWR
+Recently
 main
 meeting
 message
@@ -5434,6 +5437,7 @@ Nsa
 NaR
 Notorious
 Nikita
+NRU
 questions
 question
 quite
@@ -5979,6 +5983,7 @@ Filling
 Ford
 FillArray
 Fiber
+FIFO
 January
 June
 July
