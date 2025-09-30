@@ -33,7 +33,7 @@
 | volatility                 | нестабильность                                                                              |
 | corrupt                    | изменить полностью                                                                          |
 | alter                      | изменить частично                                                                           |
-| tampered with (password)   | подделанный (пароль)<br>                                                                    |
+| tampered with (password)   | подделанный (пароль)                                                                        |
 | message digest / hash      | строка фиксированной длины, которая создаётся из исходных данных с помощью хеш-функции      |
 | irreversible               | необратимый                                                                                 |
 | digital signatures         | цифровая подпись                                                                            |
@@ -56,4 +56,13 @@
 | counter                    | противостоять                                                                               |
 | counterfeit                | подделать                                                                                   |
 | distributed                | распространённый                                                                            |
-| lwgislation                | законодательство                                                                            |
+| legislation                | законодательство                                                                            |
+| advancement                | продвижение                                                                                 |
+| enhance                    | улучшать что-либо                                                                           |
+| robustness                 | прочность                                                                                   |
+| interference               | вмешательство                                                                               |
+| (signal) attenuation       | ослабление (сигнала)                                                                        |
+| susceptible to             | быть восприимчивым                                                                          |
+| prone to                   | быть склонным (обычно к плохому)                                                            |
+| eavesdropper               | подслушивающий человек (man in the middle)                                                  |
+|                            |                                                                                             |
