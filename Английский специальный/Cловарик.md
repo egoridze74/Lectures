@@ -59,10 +59,15 @@
 | legislation                | законодательство                                                                            |
 | advancement                | продвижение                                                                                 |
 | enhance                    | улучшать что-либо                                                                           |
-| robustness                 | прочность                                                                                   |
 | interference               | вмешательство                                                                               |
 | (signal) attenuation       | ослабление (сигнала)                                                                        |
 | susceptible to             | быть восприимчивым                                                                          |
 | prone to                   | быть склонным (обычно к плохому)                                                            |
 | eavesdropper               | подслушивающий человек (man in the middle)                                                  |
-|                            |                                                                                             |
+| redundancy                 | избыточные данные                                                                           |
+| valuable                   | важный, значимый                                                                            |
+| embody                     | воплощать                                                                                   |
+| fusion                     | слияние, синтез                                                                             |
+| robust - robustness        | прочный, крепкий - прочность, крепкость                                                     |
+| discrepancies              | расхождения                                                                                 |
+

@@ -204,6 +204,9 @@ exit
 execution
 err
 empower
+enhance
+eavesdropper
+embody
 Gray
 Graph
 Generally
@@ -540,6 +543,8 @@ assessment
 aistratov
 art
 alter
+advancement
+attenuation
 sad
 seems
 short
@@ -889,6 +894,8 @@ socket
 symlink
 section
 shed
+signal
+susceptible
 is
 in
 into
@@ -1050,6 +1057,7 @@ irreversible
 infeasible
 integrity
 immutable
+interference
 the
 time
 to
@@ -1906,6 +1914,7 @@ flag
 fcntl
 fiber
 forgery
+fusion
 relationships
 ran
 realised
@@ -2110,6 +2119,9 @@ rwx
 rwad
 resistance
 rainbow
+robustness
+redundancy
+robust
 glance
 great
 good
@@ -2890,6 +2902,7 @@ malicious
 mode
 mkfifo
 mknode
+man
 characters
 cute
 come
@@ -4239,6 +4252,7 @@ puts
 perror
 pipe
 proprietary
+prone
 lovely
 loaded
 library
@@ -4406,6 +4420,7 @@ languages
 letter
 link
 lwgislation
+legislation
 very
 viewer
 vocabulary
@@ -4538,6 +4553,7 @@ voicemail
 void
 variable
 volatility
+valuable
 you
 year
 yearly
