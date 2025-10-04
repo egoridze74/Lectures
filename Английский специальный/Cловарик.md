@@ -70,4 +70,5 @@
 | fusion                     | слияние, синтез                                                                             |
 | robust - robustness        | прочный, крепкий - прочность, крепкость                                                     |
 | discrepancies              | расхождения                                                                                 |
+| fraudulent                 | мошеннический                                                                               |
 
