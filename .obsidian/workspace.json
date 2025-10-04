@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Линейное ДУ второго+ порядка ДОПИСАТЬ"
             }
+          },
+          {
+            "id": "e3afc0927b5cc922",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +185,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "51442dbca8414a1d",
+  "active": "e3afc0927b5cc922",
   "lastOpenFiles": [
     "Диффуры/Существование решения ДУ.md",
     "Диффуры/Линейное ДУ первого порядка ДОПИСАТЬ.md",
