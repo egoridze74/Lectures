@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ОСИ/Файлы.md",
+                "file": "ОСИ/Информация по ОСям.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Файлы"
+              "title": "Информация по ОСям"
             }
           },
           {
@@ -187,10 +187,10 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "3f4033ce35b33e26",
+  "active": "51442dbca8414a1d",
   "lastOpenFiles": [
-    "ОСИ/Оперативная память ДОПИСАТЬ.md",
     "ОСИ/Файлы.md",
+    "ОСИ/Оперативная память ДОПИСАТЬ.md",
     "ОСИ/Сигналы в UNIX-подобных ОС.md",
     "ОСИ/Системные вызовы/pipe.md",
     "ОСИ/Системные вызовы/Управление процессами/wait, waitpid.md",
