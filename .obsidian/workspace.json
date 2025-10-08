@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "истратов",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,7 +88,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,7 +187,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "51442dbca8414a1d",
+  "active": "3f4033ce35b33e26",
   "lastOpenFiles": [
     "ОСИ/Оперативная память ДОПИСАТЬ.md",
     "ОСИ/Файлы.md",
