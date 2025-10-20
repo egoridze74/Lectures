@@ -11,14 +11,12 @@
             "id": "cde7b859ac97dc04",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Матстат/Семинар 20.10.2025.md",
-                "mode": "source",
-                "source": false
+                "file": "symbols.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Семинар 20.10.2025"
+              "icon": "lucide-file-text",
+              "title": "symbols"
             }
           }
         ]
@@ -174,9 +172,9 @@
   },
   "active": "cde7b859ac97dc04",
   "lastOpenFiles": [
+    "Матстат/Семинар 20.10.2025.md",
     "Матстат/Семинар 06.10.25.md",
     "Матстат/Семинар 13.10.25.md",
-    "Матстат/Семинар 20.10.2025.md",
     "Матстат/Методы построения оценок ДОПИСАТЬ.md",
     "Вставляемые материалы/Pasted image 20251020104258.png",
     "Вставляемые материалы/Pasted image 20251020104223.png",
