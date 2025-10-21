@@ -900,6 +900,8 @@ signal
 susceptible
 swapping
 supplied
+sigaction
+sig
 is
 in
 into
@@ -2364,6 +2366,7 @@ Until
 User
 Used
 Utility
+UNBLOCK
 Tom
 The
 This
@@ -2611,6 +2614,10 @@ SIGTSTP
 Semaphore
 Swapping
 Supply
+SIG
+Sigaction
+SIGHUP
+SETMASK
 Ruddock
 Relaxed
 Rowdy
@@ -3201,6 +3208,7 @@ critical
 cast
 counter
 counterfeit
+cmd
 of
 once
 other
@@ -3851,6 +3859,7 @@ At
 Atlantic
 Adidas
 Application
+Allocation
 unfortunate
 undestanding
 unrealistic
@@ -4772,6 +4781,7 @@ Dogg
 DiCaprio
 Delete
 Demand
+DFL
 know
 km
 kilometres
@@ -5055,6 +5065,7 @@ Instead
 Individual
 IBM
 Income
+IGN
 documentary
 do
 data
@@ -6014,6 +6025,8 @@ Ford
 FillArray
 Fiber
 FIFO
+File
+FAT
 January
 June
 July
@@ -6225,6 +6238,7 @@ Britain
 Beauty
 Bachelor
 Bache
+BLOCK
 Paris
 Pie
 Positive
