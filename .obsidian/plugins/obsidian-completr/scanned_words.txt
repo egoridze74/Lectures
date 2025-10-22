@@ -581,7 +581,6 @@ size
 serves
 station
 started
-significantly
 smaller
 smallest
 serve
@@ -896,7 +895,6 @@ socket
 symlink
 section
 shed
-signal
 susceptible
 swapping
 supplied

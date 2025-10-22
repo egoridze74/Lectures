@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Кайфуем и создаём сигнальную маску"
             }
+          },
+          {
+            "id": "23c3cb6a58c4ab78",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,10 +183,10 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "eda563aa7f77d5a4",
+  "active": "23c3cb6a58c4ab78",
   "lastOpenFiles": [
-    "ОСИ/Системные вызовы/Сигналы/sigprocmask.md",
     "ОСИ/Системные вызовы/Сигналы/Кайфуем и создаём сигнальную маску.md",
+    "ОСИ/Системные вызовы/Сигналы/sigprocmask.md",
     "ОСИ/Системные вызовы/Сигналы/sigdelset.md",
     "ОСИ/Системные вызовы/Управление процессами/exit, _exit.md",
     "ОСИ/Системные вызовы/Управление процессами/chmod.md",
