@@ -209,6 +209,7 @@ eavesdropper
 embody
 elasticity
 eternalities
+exp
 Gray
 Graph
 Generally
@@ -900,6 +901,7 @@ swapping
 supplied
 sigaction
 sig
+sqrt
 is
 in
 into
@@ -1271,6 +1273,7 @@ thread
 tampered
 tables
 tamper
+tilde
 best
 by
 be
@@ -2127,6 +2130,7 @@ rainbow
 robustness
 redundancy
 robust
+right
 glance
 great
 good
@@ -3450,6 +3454,7 @@ Mutex
 MSE
 MAE
 Marginal
+Mdx
 Woman
 With
 We
@@ -4438,6 +4443,8 @@ letter
 link
 lwgislation
 legislation
+left
+lambda
 very
 viewer
 vocabulary
@@ -5273,6 +5280,8 @@ dup
 duplicate
 distributed
 demanded
+ddot
+dot
 Oy
 Ox
 Overall
@@ -5478,6 +5487,7 @@ NaR
 Notorious
 Nikita
 NRU
+Ndy
 questions
 question
 quite
