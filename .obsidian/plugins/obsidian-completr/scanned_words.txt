@@ -936,6 +936,9 @@ snWOApH
 sluK
 ssy
 seQb
+syntax
+secure
+standalone
 is
 in
 into
@@ -1108,6 +1111,7 @@ iCvu
 iE
 iuS
 ioU
+inheritance
 the
 time
 to
@@ -1326,6 +1330,7 @@ tnQ
 taQA
 tTWA
 tcf
+threads
 best
 by
 be
@@ -2005,6 +2010,7 @@ fpq
 fPv
 fOb
 fLz
+friendly
 relationships
 ran
 realised
@@ -3335,6 +3341,7 @@ crs
 cju
 cOv
 ccJ
+compatable
 of
 once
 other
@@ -3471,6 +3478,8 @@ oT
 oWj
 oeO
 ols
+object
+oriented
 Man
 March
 Meanwhile
@@ -4446,6 +4455,7 @@ pkn
 pe
 ppc
 pK
+portability
 lovely
 loaded
 library
