@@ -30,11 +30,16 @@ sigaction(nsig, SIG_IGN/SIG_DFL, Имя_функции)
 Замечание: Функция с "Имя_функции" должна быть описана раньше, чем sigaction. Пример:
 ```
 void func() {
-	тело функции
+	system("date")
 }
-main() {
-	void func();
-	sigaction();
+int main() {
+	int i; char a[500];
+	struct sigaction new, old;
+	struct sigaction {
+		void sa_handler();
+		sigset_t sa_mask();
+		int sa_flags;
+	}
 }
 ```
 

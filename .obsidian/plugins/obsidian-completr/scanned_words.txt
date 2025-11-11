@@ -1822,6 +1822,7 @@ hnw
 hOr
 hY
 hQP
+handler
 film
 first
 faults
@@ -2011,6 +2012,8 @@ fPv
 fOb
 fLz
 friendly
+func
+flags
 relationships
 ran
 realised
@@ -2225,6 +2228,7 @@ rtkA
 rIZ
 rRQR
 rIH
+reac
 glance
 great
 good
@@ -3043,6 +3047,7 @@ mNe
 ms
 mAi
 myA
+mask
 characters
 cute
 come
