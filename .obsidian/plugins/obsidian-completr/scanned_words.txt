@@ -2476,6 +2476,8 @@ User
 Used
 Utility
 UNBLOCK
+UTF
+UNICODE
 Tom
 The
 This
@@ -2593,6 +2595,7 @@ Timer
 Total
 TiR
 Ti
+Technology
 Shelley
 Surprise
 Statement
@@ -2735,6 +2738,8 @@ Si
 SrD
 SES
 SwO
+Standard
+System
 Ruddock
 Relaxed
 Rowdy
@@ -3608,6 +3613,8 @@ Mo
 MozSK
 Mb
 MNw
+MFT
+Master
 Woman
 With
 We
@@ -4029,6 +4036,8 @@ Arj
 AEN
 ACR
 Aos
+ASCII
+American
 unfortunate
 undestanding
 unrealistic
@@ -5001,6 +5010,7 @@ Dwx
 DGB
 DdV
 DTTT
+Decimal
 know
 km
 kilometres
@@ -5303,6 +5313,7 @@ IJV
 IN
 IhV
 IEND
+Interchange
 documentary
 do
 data
@@ -5736,6 +5747,8 @@ Ndy
 Nx
 NRE
 Nxi
+Node
+NTFS
 questions
 question
 quite
@@ -6096,6 +6109,8 @@ Csz
 ClB
 ClJ
 CIR
+Code
+Coded
 Library
 London
 Los
@@ -6540,6 +6555,7 @@ BvSrZ
 BOl
 BYY
 BiG
+Binary
 Paris
 Pie
 Positive
@@ -6910,6 +6926,8 @@ EEE
 Ewu
 Efm
 EEEEE
+EBSDIC
+Expanded
 Housing
 Harsh
 How
