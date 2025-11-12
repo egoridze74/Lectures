@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ОСИ/Управление устройствами ввода-вывода.md",
+                "file": "ОСИ/Реализация файловой систем.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Управление устройствами ввода-вывода"
+              "title": "Реализация файловой систем"
+            }
+          },
+          {
+            "id": "0b3e07ed8b793903",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           },
           {
@@ -35,7 +47,8 @@
               "title": "Оперативная память"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,10 +199,10 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "998970692320f6a6",
+  "active": "0b3e07ed8b793903",
   "lastOpenFiles": [
-    "ОСИ/Реализация файловой систем.md",
     "ОСИ/Управление устройствами ввода-вывода.md",
+    "ОСИ/Реализация файловой систем.md",
     "ОСИ/Оперативная память.md",
     "Вставляемые материалы/Pasted image 20251111171736.png",
     "ОСИ/Файлы, файловая система.md",
