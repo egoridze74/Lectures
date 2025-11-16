@@ -216,6 +216,7 @@ er
 eMr
 eGi
 eSd
+embedded
 Gray
 Graph
 Generally
@@ -939,6 +940,7 @@ seQb
 syntax
 secure
 standalone
+spectrum
 is
 in
 into
@@ -1524,6 +1526,7 @@ bSr
 bQQQQQQQQ
 bhl
 bUT
+broad
 watch
 which
 written
@@ -2229,6 +2232,9 @@ rIZ
 rRQR
 rIH
 reac
+reliabiliy
+rendezvous
+reliability
 glance
 great
 good
@@ -3053,6 +3059,7 @@ ms
 mAi
 myA
 mask
+mechanism
 characters
 cute
 come
