@@ -333,6 +333,7 @@ Gvi
 GQx
 GOC
 GMN
+Gamma
 and
 autumn
 about
@@ -1334,6 +1335,7 @@ taQA
 tTWA
 tcf
 threads
+theta
 best
 by
 be
@@ -3361,6 +3363,7 @@ cju
 cOv
 ccJ
 compatable
+cases
 of
 once
 other
@@ -4658,6 +4661,7 @@ ll
 lEw
 lg
 ldfk
+limits
 very
 viewer
 vocabulary
@@ -4797,6 +4801,8 @@ vQH
 vdL
 vPS
 vrI
+vec
+vmatrix
 you
 year
 yearly
