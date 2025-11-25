@@ -942,6 +942,7 @@ syntax
 secure
 standalone
 spectrum
+shell
 is
 in
 into
@@ -4482,6 +4483,7 @@ pe
 ppc
 pK
 portability
+program
 lovely
 loaded
 library
