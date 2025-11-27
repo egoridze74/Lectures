@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Характеристики UNIX-подобных систем"
             }
+          },
+          {
+            "id": "c6a36b17f30a9f85",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +185,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "d4ef09d357460c6d",
+  "active": "c6a36b17f30a9f85",
   "lastOpenFiles": [
     "ОСИ/Пример выполнения лабораторной работы.md",
     "ОСИ/Введение в Операционные системы.md",
