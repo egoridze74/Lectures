@@ -2751,6 +2751,7 @@ SwO
 Standard
 System
 SYSTEM
+Stephen
 Ruddock
 Relaxed
 Rowdy
@@ -5032,6 +5033,7 @@ DGB
 DdV
 DTTT
 Decimal
+David
 know
 km
 kilometres
@@ -5336,6 +5338,7 @@ IhV
 IEND
 Interchange
 IRQ
+Interface
 documentary
 do
 data
@@ -6231,6 +6234,7 @@ LNv
 LOL
 Line
 Laboratories
+Labs
 Following
 February
 For
@@ -6357,6 +6361,7 @@ File
 FAT
 FiK
 Fhgn
+Falstadt
 January
 June
 July
@@ -6468,6 +6473,7 @@ Jane
 Jbk
 Jvm
 JvcE
+Joy
 But
 Bar
 By
@@ -6582,6 +6588,8 @@ BYY
 BiG
 Binary
 Bell
+Bourne
+Bill
 Paris
 Pie
 Positive
@@ -6725,6 +6733,8 @@ PTG
 PbA
 Pn
 POSIX
+Portable
+Paul
 Kyoto
 Korea
 Kw
@@ -6825,6 +6835,7 @@ Kzl
 KNr
 KFD
 KFV
+Korn
 European
 Europe
 East
