@@ -85,6 +85,6 @@
 | broad spectrum             | широкий спектр                                                                                     |
 | rendezvous mechanism       | механизм рандеву (способ межзадачной связи и синхронизации)                                        |
 | embedded                   | встроенный                                                                                         |
-| reliability                | надёжность                                                                                         |
+|                            |                                                                                                    |
 
 
