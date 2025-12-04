@@ -334,6 +334,7 @@ GQx
 GOC
 GMN
 Gamma
+GID
 and
 autumn
 about
@@ -943,6 +944,7 @@ secure
 standalone
 spectrum
 shell
+swapper
 is
 in
 into
@@ -2488,6 +2490,7 @@ Utility
 UNBLOCK
 UTF
 UNICODE
+UID
 Tom
 The
 This
@@ -3631,6 +3634,7 @@ Mb
 MNw
 MFT
 Master
+MASK
 Woman
 With
 We
@@ -4488,6 +4492,7 @@ ppc
 pK
 portability
 program
+pid
 lovely
 loaded
 library
@@ -5774,6 +5779,7 @@ NRE
 Nxi
 Node
 NTFS
+NICE
 questions
 question
 quite
@@ -6136,6 +6142,7 @@ ClJ
 CIR
 Code
 Coded
+CPU
 Library
 London
 Los
@@ -6735,6 +6742,7 @@ Pn
 POSIX
 Portable
 Paul
+PPID
 Kyoto
 Korea
 Kw
