@@ -570,6 +570,8 @@ advancement
 attenuation
 aq
 awv
+atop
+alarm
 sad
 seems
 short
@@ -1832,6 +1834,7 @@ hOr
 hY
 hQP
 handler
+htop
 film
 first
 faults
@@ -2395,6 +2398,8 @@ gunC
 gOc
 gIB
 gbCU
+getpid
+getuid
 Unspoken
 Usage
 Unclear
