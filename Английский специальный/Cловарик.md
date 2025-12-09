@@ -85,6 +85,12 @@
 | broad spectrum             | широкий спектр                                                                                     |
 | rendezvous mechanism       | механизм рандеву (способ межзадачной связи и синхронизации)                                        |
 | embedded                   | встроенный                                                                                         |
-|                            |                                                                                                    |
+| cost saving                | экономия средств                                                                                   |
+| multi-tenant               | многопользовательский                                                                              |
+| pay-as-yo-go               | оплата перед использованием                                                                        |
+| account hijacking          | захват аккаунта                                                                                    |
+| due diligence              | комплексная проверка                                                                               |
+| compliant with             | соответствовать                                                                                    |
+| disaster recovery          |                                                                                                    |
 
 
