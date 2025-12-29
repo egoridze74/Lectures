@@ -95,10 +95,14 @@
             "id": "9ae99355e11ce0d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Матстат/Вариационный ряд и порядковые статистики.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Вариационный ряд и порядковые статистики"
             }
           }
         ],
@@ -134,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "полная статисти",
+                "query": "теорема смирнова",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -155,7 +159,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
