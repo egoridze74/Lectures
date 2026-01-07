@@ -217,6 +217,8 @@ eMr
 eGi
 eSd
 embedded
+expr
+echo
 Gray
 Graph
 Generally
@@ -572,6 +574,7 @@ aq
 awv
 atop
 alarm
+abd
 sad
 seems
 short
@@ -4679,6 +4682,8 @@ lg
 ldfk
 limits
 log
+let
+lab
 very
 viewer
 vocabulary
@@ -5565,6 +5570,8 @@ daQ
 dVN
 dur
 dDl
+done
+directory
 Oy
 Ox
 Overall
@@ -7069,6 +7076,7 @@ Having
 Hacker
 Hoo
 HxGR
+Hello
 Vintage
 Vt
 VY
