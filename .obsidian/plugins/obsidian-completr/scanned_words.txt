@@ -6609,6 +6609,7 @@ Binary
 Bell
 Bourne
 Bill
+BASE
 Paris
 Pie
 Positive
