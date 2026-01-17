@@ -337,6 +337,10 @@ GOC
 GMN
 Gamma
 GID
+GitLab
+GitHub
+Gitea
+Git
 and
 autumn
 about
@@ -2499,6 +2503,7 @@ UNBLOCK
 UTF
 UNICODE
 UID
+Ubuntu
 Tom
 The
 This
@@ -2763,6 +2768,10 @@ Standard
 System
 SYSTEM
 Stephen
+Stuido
+SSH
+SQLite
+Status
 Ruddock
 Relaxed
 Rowdy
@@ -2877,6 +2886,9 @@ RbX
 Rs
 Request
 ROC
+Remote
+Rest
+Requests
 main
 meeting
 message
@@ -3379,6 +3391,7 @@ cOv
 ccJ
 compatable
 cases
+checks
 of
 once
 other
@@ -3643,6 +3656,7 @@ MNw
 MFT
 Master
 MASK
+Miem
 Woman
 With
 We
@@ -3745,6 +3759,7 @@ Wqn
 WpM
 Wlb
 Wze
+WebViews
 neighbours
 notes
 noticeable
@@ -4067,6 +4082,7 @@ Aos
 ASCII
 American
 Acc
+API
 unfortunate
 undestanding
 unrealistic
@@ -5049,6 +5065,10 @@ DdV
 DTTT
 Decimal
 David
+Docker
+Dbeaver
+Dev
+Deployment
 know
 km
 kilometres
@@ -5354,6 +5374,7 @@ IEND
 Interchange
 IRQ
 Interface
+IKeV
 documentary
 do
 data
@@ -5685,6 +5706,7 @@ Olv
 OxBKL
 OzHXx
 Onz
+Open
 Negative
 November
 Next
@@ -6008,6 +6030,7 @@ YKH
 YbqL
 Yvdo
 Yl
+Yaml
 Confirm
 China
 Cleft
@@ -6155,6 +6178,8 @@ CIR
 Code
 Coded
 CPU
+Containers
+Client
 Library
 London
 Los
@@ -6381,6 +6406,7 @@ FAT
 FiK
 Fhgn
 Falstadt
+Fedora
 January
 June
 July
@@ -6493,6 +6519,7 @@ Jbk
 Jvm
 JvcE
 Joy
+Jenkins
 But
 Bar
 By
@@ -6610,6 +6637,7 @@ Bell
 Bourne
 Bill
 BASE
+Bash
 Paris
 Pie
 Positive
@@ -6756,6 +6784,8 @@ POSIX
 Portable
 Paul
 PPID
+Postman
+Python
 Kyoto
 Korea
 Kw
@@ -7078,6 +7108,7 @@ Hacker
 Hoo
 HxGR
 Hello
+HealthChecks
 Vintage
 Vt
 VY
@@ -7171,6 +7202,9 @@ VII
 VSF
 VAT
 VO
+Visual
+VPN
+Vault
 Question
 Qualifying
 QH
@@ -7377,6 +7411,7 @@ XdM
 XyQ
 XTT
 XdEO
+XRAV
 ZO
 ZS
 ZY
