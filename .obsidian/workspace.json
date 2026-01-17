@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Информация по ОСям"
             }
+          },
+          {
+            "id": "c76b53d64cce2170",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +185,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "afc1c53357e64e82",
+  "active": "c76b53d64cce2170",
   "lastOpenFiles": [
     "ОСИ/Реализации UNIX-подобных систем/Управление файловой системой.md",
     "ОСИ/Дескриптор процесса.md",
