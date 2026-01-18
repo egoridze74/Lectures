@@ -2251,6 +2251,7 @@ reac
 reliabiliy
 rendezvous
 reliability
+read
 glance
 great
 good
@@ -2504,6 +2505,7 @@ UTF
 UNICODE
 UID
 Ubuntu
+Unix
 Tom
 The
 This
@@ -4700,6 +4702,7 @@ limits
 log
 let
 lab
+lseek
 very
 viewer
 vocabulary
