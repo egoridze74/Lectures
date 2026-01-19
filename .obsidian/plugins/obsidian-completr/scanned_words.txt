@@ -219,6 +219,7 @@ eSd
 embedded
 expr
 echo
+esac
 Gray
 Graph
 Generally
@@ -954,6 +955,7 @@ standalone
 spectrum
 shell
 swapper
+sasha
 is
 in
 into
@@ -2252,6 +2254,7 @@ reliabiliy
 rendezvous
 reliability
 read
+rwxr
 glance
 great
 good
@@ -3394,6 +3397,7 @@ ccJ
 compatable
 cases
 checks
+case
 of
 once
 other
@@ -5072,6 +5076,7 @@ Docker
 Dbeaver
 Dev
 Deployment
+Dasha
 know
 km
 kilometres
