@@ -124,7 +124,7 @@ esac
 ```
 
 ## Циклы
-while/until
+### while/until
 ```
 while/until выражение
 do
@@ -145,7 +145,7 @@ chmod u + x lab или sh lab
 ./lab
 ```
 
-for
+### for
 ```
 for переменная [in список]
 do
@@ -166,3 +166,51 @@ Hello 35
 Hello sasha
 Hello 10
 ```
+
+Или другой:
+```
+n = 0
+for i
+do
+	n = ' expr $n + 1'
+	echo Argument $n : $i
+done
+
+Теперь запускаем:
+./lab oleg 2 nina
+
+Argument 1: oleg
+Argument 2: 2
+Argument 3: nina
+```
+
+## trap
+trap позволяет прописать инструкции для реакции на сигналы
+```
+trap "
+	команда 1
+	команда 2
+	...
+	команда N
+"
+```
+
+Пример:
+```
+trap "prer" 2
+i = 0
+prer()
+{
+	echo количество итераций $i
+	exit1
+}
+
+while:
+do
+	i='expr $i + 1'
+	echo $i
+	sleep 1
+done
+```
+
+## Пример написания программы
