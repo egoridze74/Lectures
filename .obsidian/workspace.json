@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Шейкер-сортировка"
             }
+          },
+          {
+            "id": "8c17141584861833",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,6 +173,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-matrix:Obsidian Matrix": false,
+      "obsidian-map-view:Open map view": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -169,7 +185,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07dcce62956ff926",
+  "active": "8c17141584861833",
   "lastOpenFiles": [
     "Методы программирования/Алгоритмы сортировки/Сортировка пузырьком.md",
     "Методы программирования/Алгоритмы сортировки/Шейкер-сортировка.md",
