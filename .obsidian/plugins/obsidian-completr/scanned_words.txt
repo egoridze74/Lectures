@@ -1120,6 +1120,8 @@ scc
 spB
 sFbn
 sog
+shared
+swap
 is
 in
 into
@@ -1835,6 +1837,7 @@ bPS
 bls
 bp
 bfa
+buff
 watch
 which
 written
@@ -4119,6 +4122,7 @@ cDn
 cfe
 cVBw
 cdDA
+cache
 of
 once
 other
@@ -4293,6 +4297,7 @@ obWI
 oEAL
 obRJ
 oH
+offset
 Man
 March
 Meanwhile
@@ -5703,6 +5708,7 @@ lEH
 lNd
 ljx
 lostfree
+length
 very
 viewer
 vocabulary
