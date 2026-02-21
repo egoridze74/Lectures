@@ -250,6 +250,7 @@ ebf
 eJrIdh
 etx
 eDv
+editor
 Gray
 Graph
 Generally
@@ -1122,6 +1123,7 @@ sFbn
 sog
 shared
 swap
+str
 is
 in
 into
@@ -3369,6 +3371,7 @@ SEqO
 SNPu
 SIZ
 Svh
+Soft
 Ruddock
 Relaxed
 Rowdy
@@ -4123,6 +4126,10 @@ cfe
 cVBw
 cdDA
 cache
+consistent
+config
+created
+cnt
 of
 once
 other
@@ -4968,6 +4975,8 @@ Azq
 AlC
 Aoy
 AKp
+ACID
+Atomicity
 unfortunate
 undestanding
 unrealistic
@@ -6024,6 +6033,7 @@ yjn
 yla
 yv
 yxV
+yaml
 Despite
 Don
 December
@@ -6175,6 +6185,7 @@ DEab
 DAi
 DjF
 DCG
+Durability
 know
 km
 kilometres
@@ -6597,6 +6608,7 @@ IXpv
 Iqe
 IAIc
 IDATB
+Isolation
 documentary
 do
 data
@@ -6856,6 +6868,7 @@ dSt
 dUa
 dRi
 downHeap
+date
 Oy
 Ox
 Overall
@@ -7602,6 +7615,7 @@ Cth
 Ctt
 CFU
 CSBe
+Consistency
 Library
 London
 Los
@@ -8208,6 +8222,7 @@ BUe
 BfX
 BBJ
 BFY
+Basically
 Paris
 Pie
 Positive
@@ -8672,6 +8687,7 @@ Etn
 EWo
 EdUW
 EQH
+Eventually
 Housing
 Harsh
 How
