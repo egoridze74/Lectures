@@ -1,12 +1,12 @@
 #рксп 
 Хотим написать абстрактные классы для объекта в БД
-
 ```
 class DBO:
 	dbInsert(self)
 	dbUpdate(self)
 	dbDelete(self)
-	
+
+# Потом хотим отнаследовать класс
 class User: public DBO
 	def __init__(self)
 	.
@@ -31,12 +31,11 @@ class UserDBO
 Напишем запросы для поиска. В формате XML.
 ```
 1) params: Username
-2) output: UserBO
-3) SELECT * FROM USERS WHERE USERNAME = {username}
-   
-hasPermission()
-	UserID, PermissionID
-	
+2) output: UserDBO
+3) request: SELECT * FROM USERS WHERE USERNAME = {username}
+
+
+hasPermission(UserID, PermissionID)
 	SELECT * FROM (SELECT UserRoleID FROM USERS WHERE UserID = {UserID}) AS P1;
 	(SELECT RoleID FROM PERMISSIONS WHERE PermissionID = {PermissionID}) AS P2 WHERE P1 = P2
 ```
@@ -44,6 +43,7 @@ hasPermission()
 И потом будем писать в питоновском коде:
 ```
 cursor.execute()
+
 if cursor.fetchone() is None:
 #или
 True if c.fetchone is not None else False
