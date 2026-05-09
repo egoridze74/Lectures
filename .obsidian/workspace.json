@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Пример задания из КР"
             }
+          },
+          {
+            "id": "a5bff044000f800d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "примечания к выпуску 1.12.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,7 +185,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "881e27c4a374c6d3",
+  "active": "a5bff044000f800d",
   "lastOpenFiles": [
     "ОСИ/Сети/Поддержка в ОС UNIX сетевого обмена.md",
     "ОСИ/Пример задания из КР.md",
