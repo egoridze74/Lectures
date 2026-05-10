@@ -1126,6 +1126,7 @@ shared
 swap
 str
 self
+soy
 is
 in
 into
@@ -3379,6 +3380,7 @@ SNPu
 SIZ
 Svh
 Soft
+Soy
 Ruddock
 Relaxed
 Rowdy
@@ -3777,6 +3779,7 @@ mva
 mNOT
 mEmMME
 mSJ
+memset
 characters
 cute
 come
@@ -8238,6 +8241,7 @@ BfX
 BBJ
 BFY
 Basically
+Boy
 Paris
 Pie
 Positive
