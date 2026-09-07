@@ -251,6 +251,8 @@ eJrIdh
 etx
 eDv
 editor
+except
+enter
 Gray
 Graph
 Generally
@@ -715,6 +717,10 @@ abk
 aMo
 agMX
 attributes
+admire
+aspect
+appears
+always
 sad
 seems
 short
@@ -1127,6 +1133,11 @@ swap
 str
 self
 soy
+skill
+students
+spoken
+sources
+statements
 is
 in
 into
@@ -1341,6 +1352,10 @@ ioxM
 iEU
 iKxo
 ipc
+instead
+improve
+increasingly
+increasing
 the
 time
 to
@@ -1605,6 +1620,8 @@ tSGo
 tMT
 tvS
 tuzf
+tends
+transitions
 best
 by
 be
@@ -1844,6 +1861,10 @@ bls
 bp
 bfa
 buff
+bring
+behind
+bullets
+basic
 watch
 which
 written
@@ -2038,6 +2059,8 @@ wvH
 wws
 wND
 wgq
+worse
+won
 heartwarming
 have
 however
@@ -2467,6 +2490,7 @@ ffMS
 fLy
 fKZ
 fields
+feelings
 relationships
 ran
 realised
@@ -3190,6 +3214,7 @@ TUB
 Tvk
 TVc
 TABLE
+Tentative
 Shelley
 Surprise
 Statement
@@ -3382,6 +3407,7 @@ SIZ
 Svh
 Soft
 Soy
+Statements
 Ruddock
 Relaxed
 Rowdy
@@ -3784,6 +3810,10 @@ memset
 msg
 msgget
 msgctl
+measurement
+mixing
+multiword
+master
 characters
 cute
 come
@@ -4607,6 +4637,7 @@ WBq
 WUux
 WCR
 WHERE
+Written
 neighbours
 notes
 noticeable
@@ -4830,6 +4861,8 @@ nljB
 nmKu
 ntU
 ndP
+numbers
+numbering
 After
 As
 Angeles
@@ -4993,6 +5026,8 @@ Aoy
 AKp
 ACID
 Atomicity
+Avoid
+Appropriate
 unfortunate
 undestanding
 unrealistic
@@ -5160,6 +5195,7 @@ uQI
 uNh
 ufX
 username
+units
 paper
 plot
 perception
@@ -5502,6 +5538,12 @@ pHR
 paU
 print
 perm
+polluted
+pollution
+pronouns
+precise
+possibly
+probably
 lovely
 loaded
 library
@@ -5735,6 +5777,9 @@ lNd
 ljx
 lostfree
 length
+lots
+look
+language
 very
 viewer
 vocabulary
@@ -5905,6 +5950,7 @@ vVvX
 vqn
 vsWT
 vtzvvz
+verbs
 you
 year
 yearly
@@ -6629,6 +6675,7 @@ IDATB
 Isolation
 INSERT
 INTO
+Impersonal
 documentary
 do
 data
@@ -6892,6 +6939,10 @@ date
 dict
 dbUpdate
 datetime
+dad
+discuss
+deteriorate
+decline
 Oy
 Ox
 Overall
@@ -7182,6 +7233,8 @@ NsC
 NAgx
 NuC
 NAME
+Nominalisation
+Noun
 questions
 question
 quite
@@ -7641,6 +7694,8 @@ CFU
 CSBe
 Consistency
 Compliance
+Cite
+Cause
 Library
 London
 Los
@@ -7942,6 +7997,7 @@ FAH
 Faj
 Fp
 FYQ
+Full
 January
 June
 July
@@ -8249,6 +8305,7 @@ BBJ
 BFY
 Basically
 Boy
+Bad
 Paris
 Pie
 Positive
@@ -8715,6 +8772,8 @@ EdUW
 EQH
 Eventually
 ERP
+EAP
+Effect
 Housing
 Harsh
 How
