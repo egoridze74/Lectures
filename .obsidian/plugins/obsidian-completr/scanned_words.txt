@@ -3217,6 +3217,7 @@ Tvk
 TVc
 TABLE
 Tentative
+TCP
 Shelley
 Surprise
 Statement
@@ -3816,6 +3817,7 @@ measurement
 mixing
 multiword
 master
+model
 characters
 cute
 come
@@ -6681,6 +6683,7 @@ Isolation
 INSERT
 INTO
 Impersonal
+Interconnection
 documentary
 do
 data
@@ -7101,6 +7104,7 @@ OC
 OMB
 OLR
 ODD
+OSI
 Negative
 November
 Next
