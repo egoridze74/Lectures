@@ -1139,6 +1139,15 @@ spoken
 sources
 statements
 stime
+std
+sem
+sems
+semval
+sempid
+semncnt
+semzcnt
+semget
+semop
 is
 in
 into
@@ -1866,6 +1875,7 @@ bring
 behind
 bullets
 basic
+base
 watch
 which
 written
@@ -2934,6 +2944,7 @@ gdjp
 gunm
 gfEM
 gGG
+guard
 Unspoken
 Usage
 Unclear
@@ -3411,6 +3422,7 @@ Svh
 Soft
 Soy
 Statements
+Starvation
 Ruddock
 Relaxed
 Rowdy
@@ -3565,6 +3577,7 @@ RFY
 RNDC
 RK
 RLP
+Race
 main
 meeting
 message
@@ -4180,6 +4193,7 @@ created
 cnt
 cbytes
 ctime
+condition
 of
 once
 other
@@ -4355,6 +4369,7 @@ oEAL
 obRJ
 oH
 offset
+otime
 Man
 March
 Meanwhile
@@ -4868,6 +4883,8 @@ ntU
 ndP
 numbers
 numbering
+nsems
+num
 After
 As
 Angeles
@@ -5549,6 +5566,7 @@ pronouns
 precise
 possibly
 probably
+pool
 lovely
 loaded
 library
@@ -5787,6 +5805,8 @@ look
 language
 lspid
 lrpid
+lock
+len
 very
 viewer
 vocabulary
@@ -6257,6 +6277,7 @@ DjF
 DCG
 Durability
 DBO
+Deadlock
 know
 km
 kilometres
