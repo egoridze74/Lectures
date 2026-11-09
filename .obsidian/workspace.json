@@ -169,7 +169,6 @@
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
       "bases:Создать новую базу": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-matrix:Obsidian Matrix": false,
       "obsidian-map-view:Open map view": false
     }
